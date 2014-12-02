@@ -1,0 +1,207 @@
+Report for Institution Code FMNH, Resource fmnh_mammals
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 166
+Number of records retrieved in searches: 3311
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Colombia ; Times: 6
+	Country: France ; Times: 6
+	Country: Germany ; Times: 4
+	Country: India ; Times: 6
+	Country: Malaysia ; Times: 4
+	Country: Mexico ; Times: 6
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 4
+	Country: Sweden ; Times: 3
+	Country: United States ; Times: 116
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-01 ; Times: 5
+	Date: 2014-11-03 ; Times: 12
+	Date: 2014-11-04 ; Times: 8
+	Date: 2014-11-05 ; Times: 4
+	Date: 2014-11-06 ; Times: 4
+	Date: 2014-11-07 ; Times: 6
+	Date: 2014-11-08 ; Times: 1
+	Date: 2014-11-09 ; Times: 1
+	Date: 2014-11-10 ; Times: 1
+	Date: 2014-11-11 ; Times: 2
+	Date: 2014-11-12 ; Times: 7
+	Date: 2014-11-13 ; Times: 2
+	Date: 2014-11-15 ; Times: 1
+	Date: 2014-11-16 ; Times: 3
+	Date: 2014-11-17 ; Times: 12
+	Date: 2014-11-18 ; Times: 24
+	Date: 2014-11-19 ; Times: 5
+	Date: 2014-11-20 ; Times: 7
+	Date: 2014-11-21 ; Times: 3
+	Date: 2014-11-22 ; Times: 4
+	Date: 2014-11-23 ; Times: 8
+	Date: 2014-11-24 ; Times: 10
+	Date: 2014-11-25 ; Times: 12
+	Date: 2014-11-26 ; Times: 18
+	Date: 2014-11-27 ; Times: 1
+	Date: 2014-11-28 ; Times: 4
+	Date: 2014-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "galemys pyrenaicus" ; Times: 1
+	Query: "Vulpes vulpes necator Vulpes vulpes necator AND (NOT patwin NOT cascadensis NOT ssp) mappable:1" ; Times: 1
+	Query: "specificepithet:vetulus class:Mammalia institutioncode:FMNH" ; Times: 1
+	Query: "Macaca fascicularis" ; Times: 1
+	Query: "viverra megaspila" ; Times: 1
+	Query: "cricetomys country:"zaire"" ; Times: 1
+	Query: "Makalata" ; Times: 1
+	Query: "Syncerus" ; Times: 1
+	Query: "Vulpes vulpes necator Vulpes vulpes necator AND (NOT patwin NOT cascadensis NOT ssp)" ; Times: 2
+	Query: "Taxidea taxus distance(location,geopoint(46.67959446564022,-91.669921875))<567178" ; Times: 1
+	Query: "specificepithet:guigna genus:Leopardus" ; Times: 1
+	Query: "Cricetomys" ; Times: 1
+	Query: "Pteropus hypomelanus" ; Times: 3
+	Query: "Vulpes vulpes necator AND (NOT patwin)" ; Times: 1
+	Query: "Mustela nivalis Egypt" ; Times: 1
+	Query: "Vulpes vulpes necator" ; Times: 1
+	Query: "Syncerus mappable:1" ; Times: 1
+	Query: "Cerdocyon thous country:"Colombia"" ; Times: 1
+	Query: "genus:Osbornictis institutioncode:FMNH" ; Times: 1
+	Query: "Canis latrans stateprovince:"Indiana"" ; Times: 1
+	Query: "FMNH 123006" ; Times: 1
+	Query: "country:"Ecuador" genus:Rhogeessa" ; Times: 2
+	Query: "specificepithet:auropunctatus genus:Herpestes institutioncode:FMNH" ; Times: 1
+	Query: "genus:Rhinoceros" ; Times: 1
+	Query: "country:"Sweden"" ; Times: 3
+	Query: "mellivora capensis" ; Times: 1
+	Query: "Vulpes vulpes necator Vulpes vulpes necator AND (NOT patwin)" ; Times: 1
+	Query: "euroscaptor" ; Times: 1
+	Query: "coiba" ; Times: 1
+	Query: "vulpes ferrilata" ; Times: 5
+	Query: "panthera onca" ; Times: 1
+	Query: "viverra" ; Times: 1
+	Query: "Marmota flaviventris Oregon" ; Times: 1
+	Query: "cricetomys country:"kenya" institutioncode:FMNH" ; Times: 1
+	Query: "lophiomys" ; Times: 1
+	Query: "suricata" ; Times: 6
+	Query: "Dactylomys" ; Times: 1
+	Query: "Mustela nivalis Egypt type:specimen" ; Times: 1
+	Query: "thyroptera discifera" ; Times: 1
+	Query: "tarsius" ; Times: 2
+	Query: "labradorius" ; Times: 1
+	Query: "country:"UK"" ; Times: 1
+	Query: "mephitis mephitis estor" ; Times: 1
+	Query: "Microcebus murinus" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 2
+	Query: "sylvilagus brasiliensis type:specimen country:"colombia"" ; Times: 1
+	Query: "Canis aureus lupaster" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:bendirii genus:sorex" ; Times: 1
+	Query: "Tarsius bancanus" ; Times: 2
+	Query: "Chiroptera Salt Long (Bahama OR Bahamas)" ; Times: 1
+	Query: "cricetomys" ; Times: 6
+	Query: "country:"Iran" genus:Apodemus" ; Times: 1
+	Query: "Herbarium" ; Times: 1
+	Query: "moloch" ; Times: 1
+	Query: "Canis lupus pallipes" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "tarsius bancanus type:specimen" ; Times: 1
+	Query: "canis lupus pallipes" ; Times: 1
+	Query: "country:"Colombia" genus:Leopardus mappable:1" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 3
+	Query: "country:"Colombia" genus:Leopardus" ; Times: 1
+	Query: "genus:Poecilogale institutioncode:FMNH" ; Times: 1
+	Query: "cricetomys country:"angola"" ; Times: 1
+	Query: "potamogale" ; Times: 2
+	Query: "Lasiurus cinereus institutioncode:FMNH" ; Times: 1
+	Query: "sciurus niger stateprovince:"texas" mappable:1" ; Times: 2
+	Query: "FMNH 183755" ; Times: 2
+	Query: "FMNH 160395" ; Times: 3
+	Query: "mellivora" ; Times: 1
+	Query: "cricetomys country:"mozambique" institutioncode:FMNH" ; Times: 2
+	Query: "phacochoerus" ; Times: 2
+	Query: "class:Mammalia institutioncode:FMNH" ; Times: 1
+	Query: "Nepal (euroscaptor OR talpa)" ; Times: 1
+	Query: "sciurus niger stateprovince:"oklahoma" mappable:1" ; Times: 1
+	Query: "canis lupus chanco" ; Times: 1
+	Query: "specificepithet:vitticollis genus:Herpestes" ; Times: 1
+	Query: "specificepithet:strigidorsa genus:Mustela institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:smithii genus:Herpestes institutioncode:FMNH" ; Times: 1
+	Query: "genus:hodomys" ; Times: 1
+	Query: "genus:scutisorex" ; Times: 1
+	Query: "country:"Ecuador" genus:Eumops" ; Times: 1
+	Query: "solenodon" ; Times: 2
+	Query: "Galemys pyrenaicus" ; Times: 3
+	Query: "specificepithet:vitticollis genus:Herpestes institutioncode:FMNH" ; Times: 1
+	Query: "cricetomys country:"Tanzania" institutioncode:FMNH" ; Times: 1
+	Query: "microtus pennsylvanicus nigrans" ; Times: 2
+	Query: "specificepithet:auropunctatus genus:Herpestes" ; Times: 1
+	Query: "ovis country:"iran"" ; Times: 1
+	Query: "country:"Ecuador" genus:Centronycteris" ; Times: 1
+	Query: ""Doane Valley"" ; Times: 1
+	Query: "euryzygomatomys" ; Times: 1
+	Query: "cricetomys country:"tanzania" institutioncode:FMNH" ; Times: 1
+	Query: "FMNH catalognumber:35008" ; Times: 1
+	Query: "Marmota olympus" ; Times: 2
+	Query: "cricetomys country:"sudan" institutioncode:FMNH" ; Times: 1
+	Query: "Canis latrans stateprovince:"Indiana" year >= 1800 year <= 2014" ; Times: 1
+	Query: "specificepithet:guigna genus:Leopardus institutioncode:FMNH" ; Times: 1
+	Query: "pan troglodytes institutioncode:fmnh" ; Times: 2
+	Query: "genus:Leopardus" ; Times: 1
+	Query: "chiroptera type:specimen country:"Indonesia" institutioncode:FMNH year >= 1800 year <= 2014" ; Times: 1
+	Query: "canadian lynx" ; Times: 1
+	Query: "Marmota flaviventris Klamath Oregon" ; Times: 1
+	Query: "myotis horsfieldii" ; Times: 1
+	Query: "country:"Iran" genus:Calomyscus" ; Times: 2
+	Query: "harrisoni" ; Times: 1
+	Query: "chiroptera type:specimen country:"Indonesia" institutioncode:FMNH year >= 1700 year <= 2014" ; Times: 1
+	Query: "specificepithet:fulvipes class:Mammalia institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 166653" ; Times: 1
+	Query: "hydrobates" ; Times: 1
+	Query: "FMNH 166654" ; Times: 2
+	Query: "specificepithet:manul institutioncode:FMNH" ; Times: 2
+	Query: "NASUA type:specimen country:"ECUADOR"" ; Times: 2
+	Query: "marmota flaviventris stateprovince:"California"" ; Times: 1
+	Query: "Neacomys" ; Times: 2
+	Query: "homo sapiens" ; Times: 3
+	Query: "Molossus virgin" ; Times: 1
+	Query: "Chiroptera Hunt institutioncode:FMNH (Bahama OR Bahamas)" ; Times: 1
+	Query: "Vulpes vulpes necator Vulpes vulpes necator AND (NOT patwin NOT cascadensis)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 4185
+Total number of records retrieved from searches: 84148
+Number of download events that retrieved data from the resource: 844
+Total number of records downloaded: 356190
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 4185
+Total number of records retrieved from searches: 84148
+Number of download events that retrieved data from the resource: 972
+Total number of records downloaded: 492164
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
