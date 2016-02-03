@@ -1,0 +1,582 @@
+Report for Institution Code FMNH, Resource fmnh_mammals
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 596
+Number of records retrieved in searches: 9871
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 23
+	Country: Canada ; Times: 5
+	Country: Madagascar ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Czech Republic ; Times: 7
+	Country: Unknown ; Times: 28
+	Country: Panama ; Times: 1
+	Country: France ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Bangladesh ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Singapore ; Times: 8
+	Country: Guatemala ; Times: 12
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 10
+	Country: Spain ; Times: 4
+	Country: United States ; Times: 306
+	Country: Portugal ; Times: 10
+	Country: Mexico ; Times: 125
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 14
+	Country: Colombia ; Times: 29
+	Country: Hungary ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 5
+	Date: 2015-10-17 ; Times: 2
+	Date: 2015-10-14 ; Times: 9
+	Date: 2015-10-15 ; Times: 11
+	Date: 2015-10-12 ; Times: 27
+	Date: 2015-10-13 ; Times: 16
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-11 ; Times: 57
+	Date: 2015-10-18 ; Times: 32
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-29 ; Times: 24
+	Date: 2015-10-28 ; Times: 31
+	Date: 2015-10-27 ; Times: 25
+	Date: 2015-10-26 ; Times: 4
+	Date: 2015-10-25 ; Times: 13
+	Date: 2015-10-24 ; Times: 21
+	Date: 2015-10-23 ; Times: 52
+	Date: 2015-10-22 ; Times: 13
+	Date: 2015-10-21 ; Times: 13
+	Date: 2015-10-20 ; Times: 21
+	Date: 2015-10-05 ; Times: 29
+	Date: 2015-10-04 ; Times: 5
+	Date: 2015-10-07 ; Times: 52
+	Date: 2015-10-06 ; Times: 18
+	Date: 2015-10-01 ; Times: 47
+	Date: 2015-10-03 ; Times: 3
+	Date: 2015-10-02 ; Times: 10
+	Date: 2015-10-09 ; Times: 9
+	Date: 2015-10-08 ; Times: 11
+	Date: 2015-10-30 ; Times: 26
+	Date: 2015-10-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "32700" ; Times: 1
+	Query: "tolypeutes matacus" ; Times: 1
+	Query: "bos grunniens" ; Times: 3
+	Query: "class:Mammalia stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34; AND (NOT AMNH) institutioncode:FMNH" ; Times: 1
+	Query: "veracruz leopardus pardalis" ; Times: 1
+	Query: "FMNH 78191" ; Times: 1
+	Query: "Asellia tridens country:&#34;Egypt&#34; continent:Africa" ; Times: 1
+	Query: "Echinops telfairi" ; Times: 2
+	Query: "veracruz pecari" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "FMNH 171828" ; Times: 1
+	Query: "FMNH 174803" ; Times: 2
+	Query: "spermophilus undulatus country:&#34;Russia&#34;" ; Times: 1
+	Query: "Alouatta pigra Guatemala" ; Times: 1
+	Query: "Tachyoryctes tissue:1" ; Times: 4
+	Query: "Cabassous centralis" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Zimmer" ; Times: 4
+	Query: "FMNH 171827" ; Times: 1
+	Query: "Rhinolophus mehelyi country:&#34;Tunisia&#34; continent:Africa" ; Times: 1
+	Query: "15205" ; Times: 1
+	Query: "Megadontomys thomasi" ; Times: 1
+	Query: "Lasiurus borealis distance(location,geopoint(41.04124542678115,-96.6972666978836))&lt;100000" ; Times: 2
+	Query: "c. prehensilis" ; Times: 3
+	Query: "steatomys tissue:1" ; Times: 1
+	Query: "felidae genus:leopardus family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "FMNH 170167" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "FMNH 162535" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "Dharwar" ; Times: 1
+	Query: "continentalis" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "nasuella olivacea" ; Times: 1
+	Query: "Pygoderma bilabiatum magna" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Sciuridae sarawak" ; Times: 1
+	Query: "Paguma type:specimen (skel) institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 170169" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 2
+	Query: "dama.dama" ; Times: 1
+	Query: "Sciuridae sabah" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "procyon lotor stateprovince:&#34;Illinois&#34; (skin)" ; Times: 1
+	Query: "type:specimen genus:acinonyx" ; Times: 5
+	Query: "romerolagus diazi" ; Times: 50
+	Query: "fmnh 171541" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx institutioncode:FMNH" ; Times: 3
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "veracruz mazama temama" ; Times: 1
+	Query: "FMNH 87057" ; Times: 1
+	Query: "Sciuridae continent:South America tissue:1" ; Times: 1
+	Query: "FMNH 171836" ; Times: 2
+	Query: "Mustela itatsi" ; Times: 2
+	Query: "genus:acinonyx" ; Times: 1
+	Query: "fmnh 154845" ; Times: 1
+	Query: "FMNH 171832" ; Times: 1
+	Query: "FMNH 171833" ; Times: 1
+	Query: "FMNH 171830" ; Times: 1
+	Query: "Heterocephalus tissue:1" ; Times: 1
+	Query: "felidae genus:Panthera family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "FMNH 88524" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 3
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 63
+	Query: "order:Rodentia country:&#34;Ethiopia&#34; AND (NOT USNM) year &gt;= 1930" ; Times: 1
+	Query: "odocoileus virginianus brazil" ; Times: 1
+	Query: "Tragulidae institutioncode:FMNH" ; Times: 2
+	Query: "leopardus braccatus" ; Times: 5
+	Query: "Otonycteris hemprichii continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "cynopterus type:specimen year &gt;= 2000 year &lt;= 2015 institutioncode:FMNH tissue:1" ; Times: 2
+	Query: "Panthera leo" ; Times: 1
+	Query: "FMNH 174843" ; Times: 1
+	Query: "fmnh 39196" ; Times: 1
+	Query: "perognathus longimembris gulosus" ; Times: 1
+	Query: "Microtus californicus mohavensis" ; Times: 2
+	Query: "61430" ; Times: 1
+	Query: "FMNH 129584" ; Times: 1
+	Query: "odocoileus virginianus colombia" ; Times: 1
+	Query: "Ciudad Juarez" ; Times: 5
+	Query: "Tayassu pecari Guatemala" ; Times: 2
+	Query: "elephas" ; Times: 2
+	Query: "Asellia tridens country:&#34;Egypt&#34; continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "FMNH 174799" ; Times: 1
+	Query: "veracruz odocoileus virginianus" ; Times: 1
+	Query: "Odocoileus virginianus year &gt;= 1900 year &lt;= 1906" ; Times: 1
+	Query: "gbifdatasetid:41fc5c40-5e81-496f-9733-6b5681b3b7a5" ; Times: 1
+	Query: "121056" ; Times: 2
+	Query: "cabassous" ; Times: 1
+	Query: "FMNH 171849" ; Times: 1
+	Query: "genus:elephas tissue:1" ; Times: 2
+	Query: "specificepithet:monticolus genus:Sorex stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Ovibos" ; Times: 2
+	Query: "FMNH 113718" ; Times: 1
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "FMNH 171840" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "puma concolor chihuahua" ; Times: 1
+	Query: "FMNH 171845" ; Times: 1
+	Query: "nyctimene aello" ; Times: 1
+	Query: "sarawak Carnivora" ; Times: 1
+	Query: "FMNH-Mammals-87897" ; Times: 4
+	Query: "pecari tajacu Costa Rica" ; Times: 1
+	Query: "ovis orientalis" ; Times: 1
+	Query: "class:Mammalia catalognumber:96258" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 2
+	Query: "FMNH 81204" ; Times: 1
+	Query: "panthera onca veracruz" ; Times: 1
+	Query: "FMNH 62415" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 2
+	Query: "luia" ; Times: 2
+	Query: "FMNH 81208" ; Times: 1
+	Query: "Chironectes institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 81206" ; Times: 1
+	Query: "Daubentonia madagascariensis" ; Times: 1
+	Query: "FMNH 81205" ; Times: 1
+	Query: "pecari tajacu belize" ; Times: 1
+	Query: "Orthogeomys lanius" ; Times: 1
+	Query: "FMNH-Mammals-87896" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "genus:Leopardus institutioncode:FMNH" ; Times: 1
+	Query: "Bassariscus astutus distance(location,geopoint(36.7682256447202,-121.81640625))&lt;312033" ; Times: 1
+	Query: "FMNH 81651" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx institutioncode:FMNH" ; Times: 5
+	Query: "23218" ; Times: 1
+	Query: "Rhinolophus hipposideros continent:Africa" ; Times: 1
+	Query: "specificepithet:bottae nigricans genus:Thomomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "pecari tajacu suriname" ; Times: 1
+	Query: "FMNH 69911" ; Times: 1
+	Query: "FMNH 69913" ; Times: 1
+	Query: "FMNH 69914" ; Times: 1
+	Query: "fmnh 88525" ; Times: 1
+	Query: "FMNH 171850" ; Times: 2
+	Query: "Cerro de la Neblina FMNH" ; Times: 1
+	Query: "procyon lotor county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "FMNH 171853" ; Times: 1
+	Query: "class:Mammalia locality:Buru" ; Times: 2
+	Query: "Coendou prehensilis" ; Times: 8
+	Query: "FMNH 174841" ; Times: 1
+	Query: "class: Mammalia locality:Uinta stateprovince:&#34;Utah&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "specificepithet:concolor genus:puma family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "fmnh 42687" ; Times: 1
+	Query: "seniculus peru" ; Times: 1
+	Query: "Synaptomys (Newfoundland Labrador)" ; Times: 1
+	Query: "100002" ; Times: 1
+	Query: "22250" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "fmnh 89266" ; Times: 1
+	Query: "Rhinolophus mehelyi country:&#34;Egypt&#34; continent:Africa" ; Times: 2
+	Query: "SYLVILAGUS FLORIDANUS VERACRUZ" ; Times: 1
+	Query: "fmnh 89262" ; Times: 1
+	Query: "Cabassous unicinctus" ; Times: 1
+	Query: "FMNH 174801" ; Times: 2
+	Query: "Nyctereutes procyonoides mappable:1" ; Times: 1
+	Query: "FMNH 174805" ; Times: 1
+	Query: "FMNH 174807" ; Times: 1
+	Query: "FMNH 174809" ; Times: 1
+	Query: "canis latrans county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Odocoileus virginianus year &gt;= 1890 year &lt;= 1906" ; Times: 1
+	Query: "specificepithet:onca genus:panthera family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Myotis septentrionalis stateprovince:&#34;Virginia&#34;" ; Times: 2
+	Query: "Ursus thibetanus" ; Times: 1
+	Query: "felidae specificepithet:yagouaroundi genus:puma family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Tragulidae" ; Times: 3
+	Query: "Microtus (newfoundland labrador)" ; Times: 1
+	Query: "travancore cochin india" ; Times: 1
+	Query: "panthera leo" ; Times: 3
+	Query: "Sciuridae continent:South America hastypestatus:1" ; Times: 1
+	Query: "urocyon cinereoargenteus VERACRUZ" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Tragulidae type:specimen institutioncode:FMNH" ; Times: 2
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "FMNH 78186" ; Times: 1
+	Query: "tamandua mexicana MEXICO" ; Times: 1
+	Query: "nyctimene cephalotes" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "Lako" ; Times: 1
+	Query: "ursus arctos horribilis" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 2
+	Query: "FMNH 69909" ; Times: 2
+	Query: "specificepithet:jubatus genus:Acinonyx" ; Times: 1
+	Query: "SCIURUS DEPPEI VERACRUZ" ; Times: 1
+	Query: "126521" ; Times: 1
+	Query: "Cryptotis magna" ; Times: 1
+	Query: "capra pyrenaica" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "12739" ; Times: 1
+	Query: "veracruz mephitis macroura" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys locality:Tomas country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "FMNH 69910" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "FMNH 162531" ; Times: 1
+	Query: "order:Rodentia country:&#34;Ethiopia&#34; AND (NOT USNM) year &gt;= 1950" ; Times: 1
+	Query: "uk lutra lutra" ; Times: 1
+	Query: "FMNH 170161" ; Times: 1
+	Query: "elephas maximus" ; Times: 3
+	Query: "FMNH 172139" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Georgia&#34; (skin)" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34; AND (NOT AMNH)" ; Times: 1
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "Rhinolophus hipposideros country:&#34;Egypt&#34; continent:Africa" ; Times: 1
+	Query: "FMNH-Mammals-86765" ; Times: 1
+	Query: "88527 fmnh" ; Times: 1
+	Query: "FMNH 29497" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "specificepithet:colocolo genus:Leopardus institutioncode:FMNH" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "delphinus massachusetts" ; Times: 1
+	Query: "Tamias obscurus distance(location,geopoint(32.828827094089085,-116.06986999511719))&lt;100000" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Mammalia sylvilagus transitionalis" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 6
+	Query: "Spermophilus pygmaeus" ; Times: 1
+	Query: "odocoileus virginianus guatemala" ; Times: 1
+	Query: "FMNH 55986" ; Times: 1
+	Query: "canis latrans type:specimen county:&#34;Kern&#34; stateprovince:&#34;California&#34; (skin)" ; Times: 1
+	Query: "fmnh 89265" ; Times: 1
+	Query: "Conepatus Guatemala" ; Times: 2
+	Query: "country:&#34;Peru&#34; recordedby:Osgood" ; Times: 6
+	Query: "mammal type:specimen (chiroptera) institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "veracruz procyon lotor" ; Times: 1
+	Query: "PUMA yagouaroundi" ; Times: 1
+	Query: "PHILANDER OPOSSUM MEXICO" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 9
+	Query: "Taphozous nudiventris continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "FMNH-Mammals-140261" ; Times: 1
+	Query: "FMNH-Mammals-140260" ; Times: 1
+	Query: "Arctogalidia institutioncode:FMNH" ; Times: 14
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "odocoileus guatemala" ; Times: 1
+	Query: "type:specimen genus:acinonyx institutioncode:FMNH" ; Times: 1
+	Query: "Dermanura watsoni" ; Times: 1
+	Query: "family:Cercopithecidae (Sabah OR Sarawak)" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 7
+	Query: "procyon lotor illinois" ; Times: 2
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "felidae specificepithet:CONCOLOR genus:PUMA family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "21258" ; Times: 1
+	Query: "92289" ; Times: 1
+	Query: "FMNH 172158" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Buru&#34;" ; Times: 2
+	Query: "FMNH 170187" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 4
+	Query: "FMNH 170180" ; Times: 1
+	Query: "Cebus Villavicencio" ; Times: 2
+	Query: "FMNH 139421" ; Times: 3
+	Query: "FMNH 172151" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 3
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "FMNH 83316" ; Times: 1
+	Query: "FMNH 162541" ; Times: 1
+	Query: "oryx gazella" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "caracal" ; Times: 1
+	Query: "FMNH-Mammals-88526" ; Times: 1
+	Query: "fmnh 109940" ; Times: 1
+	Query: "FMNH 170185" ; Times: 1
+	Query: "Binturong institutioncode:FMNH" ; Times: 11
+	Query: "Microtus oaxacensis" ; Times: 1
+	Query: "class:Mammalia county:&#34;Natchitoches&#34;" ; Times: 1
+	Query: "spermophilus undulatus" ; Times: 1
+	Query: "FMNH 170184" ; Times: 1
+	Query: "peromyscus polionotus year &gt;= 1985 year &lt;= 2010" ; Times: 2
+	Query: "FMNH 174797" ; Times: 2
+	Query: "specificepithet:pardalis genus:leopardus family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "veracruz lynx rufus" ; Times: 1
+	Query: "Caluromys derbianus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Tupaia palawanensis" ; Times: 1
+	Query: "Tremarctos ornatus mappable:1" ; Times: 3
+	Query: "Rhizomys sinensis" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Coendou pruinosus" ; Times: 1
+	Query: "order:Rodentia country:&#34;Ethiopia&#34; AND (NOT USNM) year &gt;= 1920" ; Times: 2
+	Query: "veracruz nasua narica" ; Times: 1
+	Query: "pecari tajacu paraguay" ; Times: 1
+	Query: "Miniopterus schreibersii country:&#34;Tunisia&#34; continent:Africa" ; Times: 1
+	Query: "lycalopex" ; Times: 1
+	Query: "marmota bobak" ; Times: 1
+	Query: "Chrysochloridae" ; Times: 2
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 3
+	Query: "specificepithet:jubatus genus:Acinonyx mappable:1" ; Times: 4
+	Query: "Reithrodontomys microdon" ; Times: 11
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 3
+	Query: "FMNH 170182" ; Times: 1
+	Query: "FMNH Liwale" ; Times: 2
+	Query: "country:&#34;Peru&#34; recordedby:Anderson" ; Times: 11
+	Query: "39191 fmnh" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 5
+	Query: "canis latrans county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "mammal type:specimen institutioncode:FMNH" ; Times: 1
+	Query: "Erethizon (Labrador)" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Wisconsin&#34; year &gt;= 1950 year &lt;= 1970" ; Times: 1
+	Query: "FMNH 162529" ; Times: 1
+	Query: "sarawak Erinaceidae" ; Times: 1
+	Query: "rusa unicolor" ; Times: 1
+	Query: "Peromyscus maniculatus stateprovince:&#34;Michigan&#34; year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "UROCYON CINEREOARGENTEUS VERACRUZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 185 (out of 823 download events in this period)
+Total number of records downloaded: 36246
+Number of different countries: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 5
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 42
+	Country: Unknown ; Times: 10
+	Country: Panama ; Times: 1
+	Country: Singapore ; Times: 5
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 78
+	Country: Chile ; Times: 5
+	Country: Peru ; Times: 2
+	Country: Colombia ; Times: 12
+	Country: Czech Republic ; Times: 5
+	Country: Spain ; Times: 1
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 16
+	Date: 2015-10-17 ; Times: 3
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-15 ; Times: 3
+	Date: 2015-10-12 ; Times: 9
+	Date: 2015-10-13 ; Times: 5
+	Date: 2015-10-11 ; Times: 3
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-19 ; Times: 8
+	Date: 2015-10-29 ; Times: 16
+	Date: 2015-10-28 ; Times: 4
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-26 ; Times: 6
+	Date: 2015-10-25 ; Times: 4
+	Date: 2015-10-24 ; Times: 3
+	Date: 2015-10-23 ; Times: 11
+	Date: 2015-10-22 ; Times: 4
+	Date: 2015-10-21 ; Times: 2
+	Date: 2015-10-20 ; Times: 7
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 3
+	Date: 2015-10-07 ; Times: 14
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-01 ; Times: 6
+	Date: 2015-10-03 ; Times: 2
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 11
+	Date: 2015-10-30 ; Times: 22
+	Date: 2015-10-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "cynopterus" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "specificepithet:yagouaroundi genus:puma family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "odocoileus virginianus mexico" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "Megadontomys cryophilus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "lynx canadensis mappable:1" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "Sciuridae continent:South America tissue:1" ; Times: 1
+	Query: "genus:Aethomys" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Sciuridae continent:South America" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "Microtus (Newfoundland Labrador)" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Aegialomys" ; Times: 1
+	Query: "cynopterus type:specimen year &gt;= 2000 year &lt;= 2015 institutioncode:FMNH tissue:1" ; Times: 1
+	Query: "canis latrans tissue:1" ; Times: 1
+	Query: "locality:San Antonio stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 3
+	Query: "specificepithet:onca genus:panthera family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "Sciurus carolinensis country:&#34;USA&#34;" ; Times: 1
+	Query: "pecari tajacu guyana" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Cynomys mexicanus" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "pecari tajacu mexico" ; Times: 1
+	Query: "stateprovince:&#34;Karnataka&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Lasiurus borealis distance(location,geopoint(41.04124542678115,-96.6972666978836))&lt;335698" ; Times: 1
+	Query: "puma concolor chihuahua" ; Times: 1
+	Query: "Ovis canadensis Baja California" ; Times: 1
+	Query: "pecari tajacu Costa Rica" ; Times: 1
+	Query: "ERETHIZON CANADA" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Blarina brevicauda type:specimen stateprovince:&#34;Minnesota&#34; mappable:1" ; Times: 1
+	Query: "Sorex veraepacis" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "genus:Acomys" ; Times: 1
+	Query: "cynopterus type:specimen year &gt;= 2000 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "nyctimene" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx institutioncode:FMNH" ; Times: 2
+	Query: "peromyscus attwateri" ; Times: 2
+	Query: "steatomys" ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "felidae baja california" ; Times: 1
+	Query: "class: Mammalia locality:Uinta stateprovince:&#34;Utah&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "ursus institutioncode:FMNH" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "cervus nippon" ; Times: 1
+	Query: "Tragulidae institutioncode:FMNH" ; Times: 1
+	Query: "Microtus (newfoundland labrador)" ; Times: 1
+	Query: "erethizon canada" ; Times: 1
+	Query: "Sciuridae continent:South America hastypestatus:1" ; Times: 1
+	Query: "neotomodon alstoni" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Vespertilionidae stateprovince:&#34;washington&#34; mappable:1 distance(location,geopoint(48.567520373908266,-122.93426513671875))&lt;100000" ; Times: 1
+	Query: "Erethizon (Canada)" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "order:primates" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "Hoolock hoolock" ; Times: 1
+	Query: "ERETHIZON CANADA mappable:1" ; Times: 1
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "Tachyoryctes tissue:1" ; Times: 1
+	Query: "Canis lupus baileyi" ; Times: 1
+	Query: "Sciuridae sabah" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "(Marinkelle)" ; Times: 1
+	Query: "Rodentia genus:Microtus (Newfoundland OR Labrador)" ; Times: 1
+	Query: "odocoileus virginianus guatemala" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "marmorata" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Osgood" ; Times: 1
+	Query: "Psammomys obesus" ; Times: 1
+	Query: "Amboy" ; Times: 1
+	Query: "specificepithet:aureogaster genus:Sciurus" ; Times: 2
+	Query: "steatomys tissue:1" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 2
+	Query: "pecari tajacu belize" ; Times: 1
+	Query: "type:specimen genus:acinonyx institutioncode:FMNH" ; Times: 1
+	Query: "family:Cercopithecidae (Sabah OR Sarawak)" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "genetta genetta" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+	Query: "Meriones Libycus" ; Times: 1
+	Query: "lynx institutioncode:FMNH" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Schunke" ; Times: 1
+	Query: "callithrix penicillata" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "odocoileus virginianus guyana" ; Times: 1
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "type:specimen (Lepus townsendii) mappable:1" ; Times: 1
+	Query: "spermophilus undulatus" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Caluromys derbianus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:concolor genus:puma family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 2
+	Query: "Meriones shawi" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "specificepithet:jubatus genus:Acinonyx mappable:1" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "country:&#34;Peru&#34; recordedby:Anderson" ; Times: 1
+	Query: "sciurus vulgaris" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "(Ctenomys opimus)" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+
+
+End of report.
