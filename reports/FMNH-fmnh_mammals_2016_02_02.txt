@@ -1,0 +1,377 @@
+Report for Institution Code FMNH, Resource Mammals
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 249
+Number of records retrieved in searches: 4849
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 27
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 37
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 11
+	Country: Portugal ; Times: 3
+	Country: Russia ; Times: 2
+	Country: Sweden ; Times: 3
+	Country: United Arab Emirates ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: United States ; Times: 137
+	Country: Unknown ; Times: 7
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 5
+	Date: 2016-01-03 ; Times: 8
+	Date: 2016-01-04 ; Times: 5
+	Date: 2016-01-05 ; Times: 17
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-07 ; Times: 7
+	Date: 2016-01-08 ; Times: 15
+	Date: 2016-01-09 ; Times: 2
+	Date: 2016-01-11 ; Times: 29
+	Date: 2016-01-12 ; Times: 4
+	Date: 2016-01-13 ; Times: 6
+	Date: 2016-01-14 ; Times: 9
+	Date: 2016-01-15 ; Times: 5
+	Date: 2016-01-16 ; Times: 2
+	Date: 2016-01-18 ; Times: 8
+	Date: 2016-01-19 ; Times: 7
+	Date: 2016-01-20 ; Times: 9
+	Date: 2016-01-21 ; Times: 14
+	Date: 2016-01-22 ; Times: 8
+	Date: 2016-01-23 ; Times: 7
+	Date: 2016-01-24 ; Times: 4
+	Date: 2016-01-25 ; Times: 12
+	Date: 2016-01-26 ; Times: 10
+	Date: 2016-01-27 ; Times: 5
+	Date: 2016-01-28 ; Times: 11
+	Date: 2016-01-29 ; Times: 8
+	Date: 2016-01-30 ; Times: 5
+	Date: 2016-01-31 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "echimys" ; Times: 1
+	Query: "Macaca fuscata institutioncode:FMNH" ; Times: 1
+	Query: "Myoprocta" ; Times: 2
+	Query: "Canis lupus type:specimen stateprovince:"Michigan"" ; Times: 1
+	Query: "Lasiurus borealis Nebraska" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "Prionodon pardicolor" ; Times: 2
+	Query: "ailurus" ; Times: 1
+	Query: "ALouatta fusca" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "specificepithet:pyctoris genus:Rattus institutioncode:FMNH" ; Times: 2
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Felis nigripes" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "continent:Africa catalognumber:163717" ; Times: 1
+	Query: ""Tremarctos ornatus" mappable:1" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 5
+	Query: "Saiga tatarica" ; Times: 1
+	Query: "Callimico goeldii" ; Times: 1
+	Query: "Vulpes cana" ; Times: 2
+	Query: "Callimico goeldii type:specimen" ; Times: 3
+	Query: "fmnh rupestris" ; Times: 1
+	Query: "FMNH 147568" ; Times: 1
+	Query: "Alouatta caraya 1" ; Times: 1
+	Query: "Tremarctos ornatus mappable:1" ; Times: 1
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "Marmosa lepida" ; Times: 1
+	Query: "thamnomys tissue:1" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 8
+	Query: "type:specimen specificepithet:floridanus genus:podomys mappable:1 distance(location,geopoint(30.05007652169871,-81.3427734375))<59774" ; Times: 1
+	Query: "class:Mammalia locality:"Middle Anacapa" stateprovince:"California"" ; Times: 1
+	Query: "wisconsin tamiasciurus" ; Times: 2
+	Query: "Macaca fascicularis institutioncode:FMNH" ; Times: 1
+	Query: "Soricomys kalinga tissue:1" ; Times: 1
+	Query: "raphanurus" ; Times: 1
+	Query: "Microcavia" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "FMNH 78201" ; Times: 1
+	Query: "genus:Apomys institutioncode:FMNH" ; Times: 1
+	Query: "82388 (FMNH)" ; Times: 1
+	Query: "fmnh 118870" ; Times: 2
+	Query: "FMNH 187422" ; Times: 1
+	Query: "FMNH 187423" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Callimico goeldii type:specimen country:"Peru" mappable:1" ; Times: 1
+	Query: "specificepithet:Pyctoris genus:Rattus institutioncode:FMNH" ; Times: 1
+	Query: "33490" ; Times: 1
+	Query: "34586 hyaena" ; Times: 1
+	Query: "Alouatta caraya" ; Times: 1
+	Query: "Catopuma badia" ; Times: 1
+	Query: "handleyomys chapmani" ; Times: 1
+	Query: "Gorilla gorilla" ; Times: 1
+	Query: ""tremarctos ornatus" mappable:1" ; Times: 1
+	Query: "Ilha do Cardoso" ; Times: 2
+	Query: "cryptonanus" ; Times: 4
+	Query: "Prionailurus planiceps" ; Times: 1
+	Query: "Callimico (skull) mappable:1" ; Times: 1
+	Query: "25712 ursus thibetanus" ; Times: 2
+	Query: "Inia type:specimen AND (NOT skeleton skull)" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "Zapus stateprovince:"Tennessee"" ; Times: 1
+	Query: "type:specimen specificepithet:floridanus genus:podomys mappable:1 distance(location,geopoint(27.800209937418252,-82.50732421875))<59773.98665425894" ; Times: 1
+	Query: ""Tapirus pinchaque" mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:floridanus genus:podomys (skull OR skeleton) mappable:1 distance(location,geopoint(28.38173504322308,-82.7490234375))<79246.67084907244" ; Times: 1
+	Query: "Dipodomys merriami collinus type:specimen mappable:1" ; Times: 1
+	Query: "Batomys salomonseni" ; Times: 2
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "type:specimen specificepithet:floridanus genus:podomys (skull OR skeleton) mappable:1 distance(location,geopoint(27.800209937418252,-82.50732421875))<79247" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "specificepithet:semistriatus genus:Conepatus institutioncode:FMNH" ; Times: 1
+	Query: "Eptesicus Nebraska" ; Times: 2
+	Query: "class:Mammalia locality:"Middle Anacapa Island" stateprovince:"California"" ; Times: 1
+	Query: "lasiurus borealis stateprovince:"Nebraska"" ; Times: 1
+	Query: "Inia type:specimen AND (NOT skeleton)" ; Times: 1
+	Query: "Chrysocyon" ; Times: 1
+	Query: "20311 tremarctos ornatus" ; Times: 1
+	Query: "fmnh 37039" ; Times: 1
+	Query: "Tremarctos "ornatus"" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "willardi year >= 1990 year <= 2016" ; Times: 1
+	Query: "Leopardus guigna" ; Times: 1
+	Query: "tarsomys tissue:1" ; Times: 1
+	Query: "FMNH- 34011" ; Times: 2
+	Query: "Callimico mappable:1" ; Times: 2
+	Query: "sorex ornatus baja" ; Times: 1
+	Query: "canis latrans type:specimen institutioncode:FMNH" ; Times: 3
+	Query: "county:"Ashland" stateprovince:"Wisconsin"" ; Times: 1
+	Query: "fmnh 4116" ; Times: 1
+	Query: "fmnh 4117" ; Times: 1
+	Query: "fmnh 4118" ; Times: 1
+	Query: "Hippotragus niger" ; Times: 10
+	Query: "Loxodonta "africana" mappable:1" ; Times: 1
+	Query: "Inia" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "Myotis septentrionalis (Virginia)" ; Times: 1
+	Query: "116441" ; Times: 1
+	Query: "Felis margarita" ; Times: 1
+	Query: "fmnh 4078" ; Times: 1
+	Query: "Suricatta" ; Times: 1
+	Query: "Martes americana type:specimen institutioncode:FMNH" ; Times: 2
+	Query: "73867 fmnh" ; Times: 2
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "125417" ; Times: 1
+	Query: "Roaring River stateprovince:"Missouri"" ; Times: 1
+	Query: "Hippotragus niger institutioncode:FMNH" ; Times: 3
+	Query: "Kerodon" ; Times: 1
+	Query: "Phylloderma" ; Times: 2
+	Query: "Uncia uncia" ; Times: 1
+	Query: "108529" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "monodelphis peruviana" ; Times: 3
+	Query: "rattus everetti tissue:1" ; Times: 1
+	Query: "Pardofelis marmorata" ; Times: 1
+	Query: "Cebuella pygmaea type:specimen" ; Times: 2
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "Puma concolor Arizona" ; Times: 2
+	Query: "Leptailurus serval" ; Times: 3
+	Query: "fmnh 4077" ; Times: 1
+	Query: "Cebuella pygmaea type:specimen (skull)" ; Times: 1
+	Query: "Profelis aurata" ; Times: 1
+	Query: "mammals coahuila" ; Times: 5
+	Query: "Vulpes chama" ; Times: 1
+	Query: ""Mustela nigripes" mappable:1" ; Times: 1
+	Query: "Inia type:specimen" ; Times: 1
+	Query: "306 cynictis penicillata" ; Times: 1
+	Query: "FMNH 147569" ; Times: 1
+	Query: "canis aureus" ; Times: 3
+	Query: "class:mammalia country:"mexico" recordedby:brown year >= 1890 year <= 1955 hastypestatus:1" ; Times: 1
+	Query: "Idionycteris stateprovince:"New Mexico"" ; Times: 2
+	Query: "connochaetes" ; Times: 1
+	Query: "Tremarctos "ornatus" mappable:1" ; Times: 2
+	Query: "20311 tremarctos" ; Times: 1
+	Query: "Vulpes ferrilata" ; Times: 1
+	Query: "monodelphis SOREX" ; Times: 13
+	Query: "stateprovince:"Oklahoma" year >= 1898 year <= 1900" ; Times: 1
+	Query: "Callimico" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-112.677516))<15000" ; Times: 1
+	Query: "FMNH 142082" ; Times: 2
+	Query: "Callithrix pygmaea" ; Times: 2
+	Query: "cetacea AND skel" ; Times: 1
+	Query: "sundamys tissue:1" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "marmosops paulensis" ; Times: 2
+	Query: "fmnh 1424" ; Times: 1
+	Query: "Dipodomys merriami county:"San Diego"" ; Times: 1
+	Query: "Pan type:specimen (paniscus OR troglodytes)" ; Times: 1
+	Query: "Cebuella" ; Times: 3
+	Query: "58820" ; Times: 1
+	Query: "99523 melursus ursinus" ; Times: 1
+	Query: "Lasiurus Nebraska" ; Times: 1
+	Query: "Callithrix pygmaea type:specimen" ; Times: 1
+	Query: "FMNH 144665" ; Times: 1
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "FMNH 144597" ; Times: 2
+	Query: "FMNH 144668" ; Times: 2
+	Query: "genus:georychus" ; Times: 2
+	Query: "Dipodomys merriami collinus" ; Times: 1
+	Query: "FMNH 14478" ; Times: 1
+	Query: "specificepithet:osgoodi" ; Times: 1
+	Query: "176998" ; Times: 1
+	Query: "Anoura cultrata" ; Times: 1
+	Query: "Eptesicus fuscus Nebraska" ; Times: 1
+	Query: "specificepithet:californicus genus:Chaetodipus county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "Sciurus griseus county:"San Diego"" ; Times: 1
+	Query: "alouatta pigra" ; Times: 1
+	Query: "catalognumber:19277 institutioncode:FMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 104 (out of 507 download events in this period)
+Total number of records downloaded: 20384 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 17779
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 29
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 60
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-02 ; Times: 3
+	Date: 2016-01-03 ; Times: 3
+	Date: 2016-01-04 ; Times: 6
+	Date: 2016-01-05 ; Times: 17
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-07 ; Times: 5
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-11 ; Times: 3
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-13 ; Times: 4
+	Date: 2016-01-14 ; Times: 2
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-18 ; Times: 2
+	Date: 2016-01-19 ; Times: 4
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-25 ; Times: 2
+	Date: 2016-01-26 ; Times: 3
+	Date: 2016-01-27 ; Times: 4
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 5
+	Date: 2016-01-30 ; Times: 8
+	Date: 2016-01-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"Cook" stateprovince:"Illinois" institutioncode:FMNH" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 3
+	Query: "Catopuma badia" ; Times: 2
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "country:"mexico" recordedby:brown year >= 1890 year <= 1955 hastypestatus:1" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: ""Mustela nigripes" mappable:1" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "enhydra lutris california AND (NOT alaska)" ; Times: 1
+	Query: "reithrodontomys sumichrasti" ; Times: 1
+	Query: "Prionailurus planiceps" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Phocoenoides dalli type:specimen" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "Idionycteris stateprovince:"New Mexico"" ; Times: 2
+	Query: "Niviventer" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Tremarctos "ornatus" mappable:1" ; Times: 3
+	Query: "Felis nigripes" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "specificepithet:californicus genus:Chaetodipus county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: ""Tremarctos ornatus" mappable:1" ; Times: 4
+	Query: "Dermoptera mappable:1" ; Times: 7
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "Felis chaus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 2
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "Muridae type:specimen country:"USA"" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "Taxidea taxus stateprovince:"Minnesota"" ; Times: 1
+	Query: "Vespertilionidae Colombia" ; Times: 1
+	Query: "Tremarctos ornatus mappable:1" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 2
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Phocoenoides type:specimen" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Blarina brevicauda stateprovince:"Minnesota"" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 1
+	Query: "Felis margarita" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "Macaca fascicularis institutioncode:FMNH" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "raphanurus" ; Times: 1
+	Query: "Hippotragus niger institutioncode:FMNH" ; Times: 2
+	Query: "genus:Sorex county:"Lincoln" stateprovince:"Oregon"" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "distance(location,geopoint(32.66250035467835,-119.99542236328125))<87926.45562583183" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Pardofelis marmorata" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))<78505" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 104
+Total number of records downloaded: 20384
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 249
+Total number of records retrieved from searches: 4849
+Number of download events that retrieved data from the resource: 104
+Total number of records downloaded: 20384
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
