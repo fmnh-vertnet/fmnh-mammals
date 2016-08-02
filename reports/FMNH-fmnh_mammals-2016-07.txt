@@ -1,0 +1,502 @@
+Report for Institution Code FMNH, Resource fmnh_mammals
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 504
+Number of records retrieved in searches: 8654
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 26
+	Country: United States ; Times: 336
+	Country: Netherlands ; Times: 2
+	Country: Colombia ; Times: 7
+	Country: Portugal ; Times: 13
+	Country: Mexico ; Times: 37
+	Country: Unknown ; Times: 32
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 8
+	Country: Denmark ; Times: 7
+	Country: Japan ; Times: 11
+	Country: Venezuela ; Times: 5
+	Country: Russia ; Times: 2
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 19
+	Date: 2016-07-10 ; Times: 9
+	Date: 2016-07-13 ; Times: 21
+	Date: 2016-07-12 ; Times: 28
+	Date: 2016-07-15 ; Times: 20
+	Date: 2016-07-14 ; Times: 42
+	Date: 2016-07-17 ; Times: 9
+	Date: 2016-07-16 ; Times: 31
+	Date: 2016-07-19 ; Times: 12
+	Date: 2016-07-18 ; Times: 20
+	Date: 2016-07-20 ; Times: 44
+	Date: 2016-07-21 ; Times: 7
+	Date: 2016-07-05 ; Times: 2
+	Date: 2016-07-24 ; Times: 14
+	Date: 2016-07-25 ; Times: 28
+	Date: 2016-07-26 ; Times: 17
+	Date: 2016-07-27 ; Times: 29
+	Date: 2016-07-06 ; Times: 7
+	Date: 2016-07-07 ; Times: 38
+	Date: 2016-07-22 ; Times: 20
+	Date: 2016-07-23 ; Times: 6
+	Date: 2016-07-08 ; Times: 15
+	Date: 2016-07-09 ; Times: 9
+	Date: 2016-07-28 ; Times: 38
+	Date: 2016-07-29 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "myospalax" ; Times: 16
+	Query: "genus:Kerivoula order:Chiroptera tissue:1" ; Times: 2
+	Query: "Ochotona syrinx" ; Times: 8
+	Query: "elephantulus revoili" ; Times: 4
+	Query: "Cyclopes didactylus catellus" ; Times: 1
+	Query: "41fc5c40-5e81-496f-9733-6b5681b3b7a5" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "hadromys" ; Times: 1
+	Query: "specificepithet:firouzi genus:Allactaga" ; Times: 3
+	Query: "colomys" ; Times: 1
+	Query: "Cabassous centralis" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "thalpomys" ; Times: 1
+	Query: "genus:emballonura order:Chiroptera tissue:1" ; Times: 1
+	Query: "Glaucomys volans underwoodi" ; Times: 1
+	Query: "Sigmodon peruanus" ; Times: 2
+	Query: "ochotona thibetana" ; Times: 2
+	Query: "inia" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "bradypus country:&#34;costa rica&#34;" ; Times: 1
+	Query: "Palawanomys" ; Times: 2
+	Query: "Myotis oxyotus" ; Times: 2
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;maine&#34;" ; Times: 2
+	Query: "specificepithet:petaurista genus:Cercopithecus" ; Times: 1
+	Query: "Glaucomys volans goldmani" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 2
+	Query: "choloepus country:&#34;guiana&#34;" ; Times: 1
+	Query: "Natuna" ; Times: 2
+	Query: "Sorex hoyi winnemana" ; Times: 1
+	Query: "paramelomys moncktoni" ; Times: 2
+	Query: "Sciurus aureogaster socialis" ; Times: 1
+	Query: "Sciurus oculatus" ; Times: 1
+	Query: "Rodentia (Sulawesi) institutioncode:FMNH" ; Times: 1
+	Query: "36294" ; Times: 1
+	Query: "pelomys isseli tissue:1" ; Times: 1
+	Query: "29865" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "FMNH 1353" ; Times: 1
+	Query: "Microtus californicus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "genus:ototylomys distance(location,geopoint(15.65125023211557,-88.9453125))&lt;210992.101511379" ; Times: 1
+	Query: "FMNH-23099" ; Times: 1
+	Query: "Cremnomys" ; Times: 3
+	Query: "fmnh 33143" ; Times: 1
+	Query: "fmnh 33144" ; Times: 2
+	Query: "genus:myodes stateprovince:&#34;vermont&#34;" ; Times: 2
+	Query: "fmnh 33146" ; Times: 3
+	Query: "fmnh 33147" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "genus:ototylomys stateprovince:&#34;chiapas&#34; mappable:1" ; Times: 1
+	Query: "oligoryzomys arenalis type:specimen class:mammalia country:&#34;peru&#34;" ; Times: 1
+	Query: "WEME" ; Times: 2
+	Query: "panthera onca" ; Times: 5
+	Query: "specificepithet:Americanus genus:Lepus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "choeronycteris mexicana stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "cannomys" ; Times: 2
+	Query: "fmnh 33145" ; Times: 2
+	Query: "\152624" ; Times: 1
+	Query: "genus:Tylonycteris order:Chiroptera tissue:1" ; Times: 2
+	Query: "Sturnira oporaphilum institutioncode:FMNH" ; Times: 2
+	Query: "genus:ototylomys country:&#34;guatemala&#34; mappable:1" ; Times: 3
+	Query: "kunsia" ; Times: 1
+	Query: "otomys denti tissue:1" ; Times: 1
+	Query: "specificepithet:setchuanus genus:Eozapus" ; Times: 2
+	Query: "Mammalia (Casanare)" ; Times: 1
+	Query: "oligoryzomys arenalis type:specimen order:rodentia class:mammalia country:&#34;peru&#34;" ; Times: 1
+	Query: "san pedro martir sorex ornatus" ; Times: 1
+	Query: "diclidurus albus" ; Times: 2
+	Query: "specificepithet:amoenus genus:Tamias stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "152624" ; Times: 1
+	Query: "gbifdatasetid:41fc5c40-5e81-496f-9733-6b5681b3b7a5" ; Times: 1
+	Query: "catalognumber:161206" ; Times: 1
+	Query: "Dasypus novemcinctus fenestratus" ; Times: 1
+	Query: "Thylacinus" ; Times: 1
+	Query: "nilopegamys" ; Times: 1
+	Query: "Callithrix argentata" ; Times: 4
+	Query: "Ochotona roylei" ; Times: 4
+	Query: "specificepithet:tetradactyla genus:Allactaga" ; Times: 2
+	Query: "189561" ; Times: 3
+	Query: "praomys delectorum tissue:1" ; Times: 1
+	Query: "189562" ; Times: 1
+	Query: "type:specimen class:mammalia locality:pacasmayo" ; Times: 1
+	Query: "genus:myodes stateprovince:&#34;vermont&#34; institutioncode:FMNH" ; Times: 2
+	Query: "22406" ; Times: 1
+	Query: "R-69104" ; Times: 1
+	Query: "Herpestes ichneumon 1" ; Times: 1
+	Query: "Genetta genetta 1" ; Times: 1
+	Query: "59664" ; Times: 1
+	Query: "326 (Draco)" ; Times: 1
+	Query: "Sciurus aureogaster san felipe" ; Times: 1
+	Query: "type:specimen order:rodentia class:mammalia locality:pacasmayo" ; Times: 1
+	Query: "104370" ; Times: 1
+	Query: "specificepithet:vagrans genus:Sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "choloepus country:&#34;french guiana&#34;" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "Cyclopes didactylus didactylus" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 7
+	Query: "Neotomys ebriosus type:specimen family:cricetidae order:rodentia class:mammalia country:&#34;peru&#34;" ; Times: 1
+	Query: "18611" ; Times: 1
+	Query: "type:specimen family:cricetidae order:rodentia class:mammalia stateprovince:&#34;Pasco&#34; country:&#34;peru&#34;" ; Times: 1
+	Query: "144023" ; Times: 2
+	Query: "ammospermophilus leucurus leucurus locality:Hesperia" ; Times: 1
+	Query: "Scutisorex somereni" ; Times: 19
+	Query: "order:Rodentia stateprovince:&#34;shandong&#34; country:&#34;China&#34;" ; Times: 2
+	Query: "69104" ; Times: 1
+	Query: "specificepithet:major genus:Allactaga" ; Times: 1
+	Query: "haeromys pusillus" ; Times: 2
+	Query: "Vulpes velox new mexico grant" ; Times: 1
+	Query: "33274" ; Times: 1
+	Query: "sciurus lis" ; Times: 1
+	Query: "Callithrix melanura" ; Times: 1
+	Query: "family:hylobatidae institutioncode:FMNH" ; Times: 3
+	Query: "mesoplodon bidens" ; Times: 1
+	Query: "117822" ; Times: 1
+	Query: "mus pahari" ; Times: 6
+	Query: "genus:ototylomys distance(location,geopoint(14.909400447229379,-88.1103515625))&lt;286113" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "otomys angoniensis tissue:1" ; Times: 1
+	Query: "country:&#34;mexico&#34; (Cyclopes)" ; Times: 1
+	Query: "specificepithet:euphratica genus:Allactaga" ; Times: 1
+	Query: "oligoryzomys arenalis country:&#34;peru&#34;" ; Times: 1
+	Query: "41533" ; Times: 1
+	Query: "Neovison vison 1" ; Times: 3
+	Query: "Ochotona erythrotis" ; Times: 8
+	Query: "Caluromys derbianus pallidus" ; Times: 1
+	Query: "Tamandua mexicana instabilis" ; Times: 1
+	Query: "lagidium peruanum" ; Times: 1
+	Query: "Orthogeomys grandis" ; Times: 1
+	Query: "specificepithet:monticolus genus:Sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "natural history museum of utah sorex" ; Times: 3
+	Query: "Haeromys" ; Times: 1
+	Query: "genus:ototylomys (connectens) mappable:1" ; Times: 1
+	Query: "catalognumber:1215" ; Times: 1
+	Query: "genus:ototylomys distance(location,geopoint(15.883854616198759,-89.912109375))&lt;100000" ; Times: 1
+	Query: "type:specimen (Macroscelididae) institutioncode:FMNH" ; Times: 1
+	Query: "millardia gleadowi" ; Times: 1
+	Query: "class:Mammalia county:&#34;Lexington&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "189484" ; Times: 1
+	Query: "dacnomys" ; Times: 4
+	Query: "type:specimen order:rodentia class:mammalia stateprovince:&#34;la libertad&#34; country:&#34;peru&#34;" ; Times: 1
+	Query: "thalpomys cerradensis" ; Times: 5
+	Query: "(Casanare)" ; Times: 1
+	Query: "Macaca sylvanus 1" ; Times: 1
+	Query: "FMNH 5213" ; Times: 1
+	Query: "type:specimen order:rodentia class:mammalia stateprovince:&#34;Pasco&#34; country:&#34;peru&#34;" ; Times: 1
+	Query: "Orthogeomys cuniculus" ; Times: 1
+	Query: "genus:saccolaimus order:Chiroptera tissue:1" ; Times: 1
+	Query: "Microsciurus" ; Times: 2
+	Query: "Choeroniscus" ; Times: 2
+	Query: "FMNH 109954" ; Times: 1
+	Query: "Sciurus yucatanensis baliolus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis preparations:skin catalognumber:134454" ; Times: 1
+	Query: "ochotona macrotis" ; Times: 1
+	Query: "type:specimen family:cricetidae order:rodentia class:mammalia stateprovince:&#34;pasco&#34; country:&#34;peru&#34;" ; Times: 1
+	Query: "cauca la costa" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Nevada&#34;" ; Times: 6
+	Query: "genus:Chrysochloris" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 2
+	Query: "grammomys cometes tissue:1" ; Times: 1
+	Query: "gorilla gorilla" ; Times: 2
+	Query: "panthera leo" ; Times: 2
+	Query: "specificepithet:michaelis genus:Salpingotulus" ; Times: 2
+	Query: "family:hylobatidae (skull) institutioncode:FMNH" ; Times: 1
+	Query: "dephomys" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;new hampshire&#34; institutioncode:FMNH" ; Times: 2
+	Query: "genus:ototylomys country:&#34;honduras&#34;" ; Times: 1
+	Query: "Puma yagouaroundi yagouaroundi" ; Times: 1
+	Query: "scapteromys tumidus" ; Times: 1
+	Query: "specificepithet:talpoides genus:Thomomys stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "catalognumber:18873" ; Times: 1
+	Query: "panthera tigris tissue:1" ; Times: 1
+	Query: "necromys lactens" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 4
+	Query: "genus:ototylomys country:&#34;guatemala&#34; mappable:1 hastypestatus:1" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:erminea genus:Mustela stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:rosmarus genus:odobenus institutioncode:FMNH" ; Times: 2
+	Query: "R.65002" ; Times: 1
+	Query: "Pteropus dasymallus" ; Times: 1
+	Query: "family:hominidae institutioncode:FMNH" ; Times: 3
+	Query: "rhabdomys tissue:1" ; Times: 1
+	Query: "order:Primates country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "sciurus pyrrhinus" ; Times: 2
+	Query: "R-66881" ; Times: 1
+	Query: "specificepithet:catherinae genus:Oecomys" ; Times: 3
+	Query: "FMNH rhyncholestes" ; Times: 1
+	Query: "genus:Pipistrellus order:Chiroptera tissue:1" ; Times: 1
+	Query: "lenothrix" ; Times: 1
+	Query: "Lasiurus blossevillii stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "necromys urichi" ; Times: 1
+	Query: "&#34;lasiurus blossevillii&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "24340" ; Times: 1
+	Query: "Cebuella pygmaea" ; Times: 3
+	Query: "Atelocynus microtis" ; Times: 1
+	Query: "catagonus wagneri" ; Times: 2
+	Query: "26335" ; Times: 1
+	Query: "Ochotona mantchurica" ; Times: 1
+	Query: "leopoldamys edwardsi" ; Times: 4
+	Query: "Cyclopes didactylus dorsalis" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 1
+	Query: "Ochotona thibetana" ; Times: 4
+	Query: "36259" ; Times: 1
+	Query: "78681" ; Times: 1
+	Query: "Orthogeomys lanius" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "FMNH 118840" ; Times: 2
+	Query: "Nyctereutes procyonoides 1" ; Times: 4
+	Query: "Chaetodipus rudinoris" ; Times: 3
+	Query: "specificepithet:subtilis genus:Sicista" ; Times: 1
+	Query: "type:specimen order:rodentia class:mammalia stateprovince:&#34;la libertad&#34;" ; Times: 1
+	Query: "genus:ototylomys distance(location,geopoint(15.65125023211557,-88.9453125))&lt;248675" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "Ochotona macrotis" ; Times: 3
+	Query: "Sciurus gilvigularis" ; Times: 1
+	Query: "aethomys kaiseri tissue:1" ; Times: 1
+	Query: "Atelocynus" ; Times: 1
+	Query: "sciurus anomalus" ; Times: 1
+	Query: "stateprovince:&#34;Minnesota&#34; specificepithet:sabrinus genus:Glaucomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "30033" ; Times: 1
+	Query: "parotomys" ; Times: 1
+	Query: "Caluromys derbianus fervidus" ; Times: 1
+	Query: "Dendrohyrax arboreus" ; Times: 2
+	Query: "golunda" ; Times: 1
+	Query: "Sciurus yucatanensis" ; Times: 1
+	Query: "95894" ; Times: 1
+	Query: "otomys lacustris tissue:1" ; Times: 1
+	Query: "scapteromys" ; Times: 1
+	Query: "Madoqua kirkii type:specimen" ; Times: 1
+	Query: "genus:Nyctalus order:Chiroptera tissue:1" ; Times: 1
+	Query: "Cavia porcellus type:specimen" ; Times: 1
+	Query: "cavia aperea type:specimen" ; Times: 1
+	Query: "necromys lenguarum" ; Times: 2
+	Query: "genus:coleura order:Chiroptera tissue:1" ; Times: 1
+	Query: "catalognumber:200652" ; Times: 3
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "funambulus palmarum" ; Times: 1
+	Query: "class:Mammalia county:&#34;York&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "dendrohyrax" ; Times: 3
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "stateprovince:&#34;minnesota&#34; specificepithet:hudsonicus genus:tamiasciurus year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "catalognumber:13734" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "Vulpes velox new mexico grant county" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 2
+	Query: "genus:pipistrellus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Orangeburg&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Sciurus continent:South America institutioncode:FMNH" ; Times: 3
+	Query: "Caluromys derbianus centralis" ; Times: 1
+	Query: "funambulus sublineatus" ; Times: 1
+	Query: "genus:ototylomys country:&#34;honduras&#34; mappable:1" ; Times: 1
+	Query: "Philander opossum melanurus" ; Times: 1
+	Query: "Atelerix algirus 1" ; Times: 1
+	Query: "ursus thibetanus" ; Times: 2
+	Query: "Ateles geoffroyi yucatanensis" ; Times: 2
+	Query: "vandeleuria" ; Times: 1
+	Query: "class:Mammalia county:&#34;Oconee&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Ochotona pusilla" ; Times: 8
+	Query: "genus:Paraleptomys" ; Times: 1
+	Query: "FMNH 23395" ; Times: 1
+	Query: "ochotona syrinx" ; Times: 3
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "Nycticebus" ; Times: 2
+	Query: "Dasyprocta mexicana" ; Times: 1
+	Query: "74206" ; Times: 3
+	Query: "ochotona erythrotis" ; Times: 3
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "52755" ; Times: 1
+	Query: "ceratotherium simum cottoni" ; Times: 1
+	Query: "specificepithet:palustris genus:sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "dasymys tissue:1" ; Times: 3
+	Query: "ochotona pusilla" ; Times: 2
+	Query: "class:Mammalia county:&#34;Abbeville&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Dipodomys institutioncode:FMNH" ; Times: 2
+	Query: "millardia" ; Times: 1
+	Query: "macrophyllum macrophyllum" ; Times: 3
+	Query: "catalognumber:49041" ; Times: 1
+	Query: "tryphomys" ; Times: 1
+	Query: "specificepithet:schnablii genus:Amorphochilus institutioncode:FMNH" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 3
+	Query: "Philander opossum canus" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;new hampshire&#34;" ; Times: 1
+	Query: "chiropodomys pusillus" ; Times: 1
+	Query: "catalognumber:80029" ; Times: 2
+	Query: "order:rodentia stateprovince:&#34;Shanxi&#34; country:&#34;China&#34;" ; Times: 1
+	Query: "catalognumber:86029" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 8
+	Query: "specificepithet:nuttallii genus:Sylvilagus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "funambulus tristriatus" ; Times: 1
+	Query: "genus:pipistrellus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:FMNH" ; Times: 1
+	Query: "Sorex dispar" ; Times: 2
+	Query: "Sciurus yucatanensis yucatanensis" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "Grant county Lepidus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 2
+	Query: "140561" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 234 (out of 1219 download events in this period)
+Total number of records downloaded: 137506
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 4
+	Country: Netherlands ; Times: 110
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 9
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 90
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 12
+	Date: 2016-07-10 ; Times: 12
+	Date: 2016-07-13 ; Times: 14
+	Date: 2016-07-12 ; Times: 11
+	Date: 2016-07-15 ; Times: 8
+	Date: 2016-07-14 ; Times: 11
+	Date: 2016-07-17 ; Times: 9
+	Date: 2016-07-16 ; Times: 2
+	Date: 2016-07-19 ; Times: 13
+	Date: 2016-07-18 ; Times: 10
+	Date: 2016-07-20 ; Times: 6
+	Date: 2016-07-07 ; Times: 10
+	Date: 2016-07-24 ; Times: 5
+	Date: 2016-07-25 ; Times: 10
+	Date: 2016-07-26 ; Times: 16
+	Date: 2016-07-27 ; Times: 8
+	Date: 2016-07-06 ; Times: 6
+	Date: 2016-07-21 ; Times: 18
+	Date: 2016-07-22 ; Times: 6
+	Date: 2016-07-23 ; Times: 3
+	Date: 2016-07-08 ; Times: 11
+	Date: 2016-07-09 ; Times: 15
+	Date: 2016-07-28 ; Times: 12
+	Date: 2016-07-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Ochotona princeps tissue:1" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 3
+	Query: "&#34;Santa Rosa Island&#34;" ; Times: 1
+	Query: "marmota monax type:specimen" ; Times: 1
+	Query: "thalpomys" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "spalacidae" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "&#34;sciurus carolinensis&#34;" ; Times: 1
+	Query: "Natuna" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 115
+	Query: "Sciurus oculatus" ; Times: 1
+	Query: "Antrozous pallidus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Saguinus mappable:1" ; Times: 1
+	Query: "Microtus californicus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Peromyscus polionotus type:specimen" ; Times: 1
+	Query: "macroscelididae type:specimen preparations:skull" ; Times: 1
+	Query: "Cavia porcellus type:specimen" ; Times: 2
+	Query: "Michigan Mammalia" ; Times: 1
+	Query: "&#34;Spermophilus beecheyi&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis preparations:skin" ; Times: 1
+	Query: "Ochotona pusilla" ; Times: 1
+	Query: "Reithrodontomys humulis type:specimen" ; Times: 1
+	Query: "karnataka" ; Times: 1
+	Query: "funambulus palmarum" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;Shanxi&#34; country:&#34;China&#34;" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;Heilongjiang&#34; country:&#34;China&#34;" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "dasypodidae" ; Times: 1
+	Query: "class:Mammalia preparations:alc" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;shandong&#34; country:&#34;China&#34;" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Nephelomys" ; Times: 1
+	Query: "family:hylobatidae (skull) institutioncode:FMNH" ; Times: 1
+	Query: "Ochotona erythrotis" ; Times: 1
+	Query: "Erethizon dorsatum type:specimen" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "Leptonycteris yerbabuenae" ; Times: 1
+	Query: "type:specimen (Macroscelididae) institutioncode:FMNH" ; Times: 1
+	Query: "perognathus" ; Times: 2
+	Query: "Ochotona syrinx" ; Times: 1
+	Query: "pedetes capensis type:specimen" ; Times: 1
+	Query: "Potos flavus type:specimen" ; Times: 1
+	Query: "Choeroniscus" ; Times: 1
+	Query: "genus:Sciurus continent:South America institutioncode:FMNH" ; Times: 1
+	Query: "Suncus murinus type:specimen" ; Times: 1
+	Query: "&#34;tamias alpinus&#34;" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "Oecomys bicolor" ; Times: 1
+	Query: "macroscelididae type:specimen" ; Times: 1
+	Query: "amorphochilus schnablii" ; Times: 1
+	Query: "isle royale" ; Times: 1
+	Query: "NICARAGUA" ; Times: 2
+	Query: "Pteropus dasymallus" ; Times: 1
+	Query: "family:hominidae institutioncode:FMNH" ; Times: 1
+	Query: "type:specimen genus:Perognathus stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 2016" ; Times: 1
+	Query: "family:dasypodidae" ; Times: 1
+	Query: "mammalia Mexico" ; Times: 4
+	Query: "Dipodomys institutioncode:FMNH" ; Times: 1
+	Query: "Lasiurus blossevillii stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Ochotona mantchurica" ; Times: 1
+	Query: "Ochotona thibetana" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "Sciurus gilvigularis" ; Times: 1
+	Query: "stateprovince:&#34;Minnesota&#34; specificepithet:sabrinus genus:Glaucomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Otospermophilus beecheyi stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:novemcinctus genus:dasypus" ; Times: 1
+	Query: "cavia aperea type:specimen" ; Times: 1
+	Query: "stateprovince:&#34;minnesota&#34; specificepithet:hudsonicus genus:tamiasciurus year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "Atelocynus microtis" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "locality:ocozocoautla" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "genus:pipistrellus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Callospermophilus lateralis" ; Times: 11
+	Query: "funambulus sublineatus" ; Times: 1
+	Query: "rhinopoma hardwickii" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "natural history museum of utah sorex" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "Vulpes New Mexico" ; Times: 1
+	Query: "Vulpes macrotis new mexico" ; Times: 1
+	Query: "molossus pretiosus" ; Times: 1
+	Query: "type:specimen genus:Perognathus stateprovince:&#34;Nevada&#34; year &gt;= 1895 year &lt;= 1950" ; Times: 1
+	Query: "class:Mammalia locality:buenos aires year &gt;= 1900 hassex:1" ; Times: 1
+	Query: "elaphe guttata" ; Times: 1
+	Query: "Notiosorex crawfordi type:specimen" ; Times: 1
+	Query: "specificepithet:schnablii genus:Amorphochilus institutioncode:FMNH" ; Times: 1
+	Query: "Molossus tissue:1" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "funambulus tristriatus" ; Times: 1
+	Query: "Madoqua kirkii type:specimen" ; Times: 2
+	Query: "Vampyrum" ; Times: 1
+	Query: "dacnomys" ; Times: 1
+
+
+End of report.
