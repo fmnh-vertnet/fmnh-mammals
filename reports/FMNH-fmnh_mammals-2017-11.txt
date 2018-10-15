@@ -1,0 +1,196 @@
+Report for Institution Code FMNH, Resource fmnh_mammals
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 203
+Number of records retrieved in searches: 2917
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 17
+	Country: South Africa ; Times: 3
+	Country: Czechia ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 5
+	Country: United States ; Times: 125
+	Country: Guatemala ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 9
+	Country: Ukraine ; Times: 4
+	Country: Brazil ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 65
+	Date: 2017-11-29 ; Times: 23
+	Date: 2017-11-26 ; Times: 19
+	Date: 2017-11-27 ; Times: 34
+	Date: 2017-11-24 ; Times: 11
+	Date: 2017-11-25 ; Times: 15
+	Date: 2017-11-30 ; Times: 36
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:leucotis genus:sigmodon country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Diceros" ; Times: 1
+	Query: "108105" ; Times: 3
+	Query: "Sylvilagus transitionalis" ; Times: 2
+	Query: "vntype:specimen class:Mammalia catalognumber:12642" ; Times: 1
+	Query: "vntype:specimen genus:Orcaella" ; Times: 6
+	Query: "Megadontomys thomasi" ; Times: 1
+	Query: "63090" ; Times: 2
+	Query: "92095" ; Times: 1
+	Query: "13083" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "akodon budini" ; Times: 2
+	Query: "specificepithet:nigrofusca genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "ziphius" ; Times: 3
+	Query: "Vulpes cana" ; Times: 5
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "specificepithet:fischeri genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:voi genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "Orcaella" ; Times: 1
+	Query: "genus:Neacomys institutioncode:FMNH" ; Times: 2
+	Query: "suricata" ; Times: 1
+	Query: "genus:crocidura country:&#34;kenya&#34;" ; Times: 6
+	Query: "family:gliridae country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:triton genus:Mus institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:parvipes genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 3
+	Query: "FMNH 92348" ; Times: 2
+	Query: "specificepithet:peruanus genus:Ctenomys" ; Times: 1
+	Query: "specificepithet:fumosa genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:gracilipes genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "galerella pulverulenta" ; Times: 1
+	Query: "specificepithet:fulgens genus:Ailurus mappable:1" ; Times: 1
+	Query: "galerella" ; Times: 1
+	Query: "specificepithet:selina genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "fieldnumber:79535 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:cyanea genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "genus:otonycteris" ; Times: 3
+	Query: "specificepithet:montis genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Myotis country:&#34;Guatemala&#34; institutioncode:FMNH" ; Times: 2
+	Query: "sturnira luisi" ; Times: 1
+	Query: "catalognumber:49144 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:littoralis genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "saguinus leucopus" ; Times: 1
+	Query: "12642" ; Times: 1
+	Query: "specificepithet:flavescens genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "damaliscus hunteri" ; Times: 9
+	Query: "specificepithet:tigris genus:Panthera mappable:1" ; Times: 1
+	Query: "specificepithet:ichneumon genus:herpestes country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 2
+	Query: "whales" ; Times: 1
+	Query: "specificepithet:ichneumon genus:herpestes country:&#34;kenya&#34;" ; Times: 1
+	Query: "FMNH 226833" ; Times: 2
+	Query: "genus:Neacomys country:&#34;Colombia&#34;" ; Times: 2
+	Query: "diclidurus" ; Times: 4
+	Query: "35377" ; Times: 1
+	Query: "45176" ; Times: 1
+	Query: "catalognumber:154682 institutioncode:FMNH" ; Times: 2
+	Query: "genus:Vulpes stateprovince:&#34;Minnesota&#34; institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 92646" ; Times: 2
+	Query: "specificepithet:jacksoni genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:camelopardalis genus:Giraffa mappable:1" ; Times: 1
+	Query: "FMNH 92648" ; Times: 3
+	Query: "genus:Urocyon stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 3
+	Query: "specificepithet:viaria genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "Elephas maximus India" ; Times: 1
+	Query: "specificepithet:fuscomurina genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "berlandieri specificepithet:hispidus genus:sigmodon country:&#34;mexico&#34;" ; Times: 4
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 3
+	Query: "specificepithet:parvula genus:helogale country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus preparations:skin" ; Times: 1
+	Query: "FMNH 92553" ; Times: 1
+	Query: "hippocamelus antisensis" ; Times: 2
+	Query: "locality:Chimanta" ; Times: 1
+	Query: "196376" ; Times: 1
+	Query: "order:lagomorpha country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:hildegardeae genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes stateprovince:&#34;Minnesota&#34; year &lt;= 1930" ; Times: 1
+	Query: "FMNH 187945" ; Times: 2
+	Query: "specificepithet:luna genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "Hyladelphys" ; Times: 1
+	Query: "genus:suncus country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:turba genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Myotis institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:parvula genus:helogale country:&#34;kenya&#34;" ; Times: 1
+	Query: "Loris tardigradus" ; Times: 4
+	Query: "reithrodontomys microdon" ; Times: 2
+	Query: "FMNH 38503" ; Times: 1
+	Query: "orcaella brevirostris" ; Times: 2
+	Query: "Galerella" ; Times: 3
+	Query: "47996" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 5
+	Query: "specificepithet:allex genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "Lonchophylla hesperia" ; Times: 4
+	Query: "specificepithet:ornatus genus:tremarctos class:mammalia mappable:1" ; Times: 1
+	Query: "specificepithet:olivieri genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "specificepithet:fulvastra genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "hylomyscus parvus" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 9
+	Query: "142160" ; Times: 1
+	Query: "genus:Romerolagus" ; Times: 1
+	Query: "elephas" ; Times: 3
+	Query: "Chiropodomys" ; Times: 1
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "specificepithet:elgonius genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Antilocapra institutioncode:FMNH" ; Times: 1
+	Query: "Panthera tigris skin" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "specificepithet:hirta genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 9
+	Query: "specificepithet:ichneumon genus:herpestes institutioncode:FMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1101 download events in this period)
+Total number of records downloaded: 42340
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 15
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 3
+	Date: 2017-11-29 ; Times: 3
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 9
+	Date: 2017-11-24 ; Times: 2
+	Date: 2017-11-25 ; Times: 1
+	Date: 2017-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:chiroptera" ; Times: 2
+	Query: "peromyscus hylocetes" ; Times: 3
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "specificepithet:peruanus genus:Ctenomys" ; Times: 1
+	Query: "Hyladelphys" ; Times: 1
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "peromyscus oaxacensis" ; Times: 1
+	Query: "Loris tardigradus" ; Times: 1
+	Query: "Sylvilagus transitionalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:europaeus genus:Erinaceus" ; Times: 1
+	Query: "ziphius" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "specificepithet:ornatus genus:tremarctos class:mammalia mappable:1" ; Times: 1
+	Query: "genus:otonycteris" ; Times: 1
+	Query: "peromyscus rowleyi" ; Times: 1
+
+
+End of report.
