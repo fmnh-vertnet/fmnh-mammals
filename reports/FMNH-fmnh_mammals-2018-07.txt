@@ -1,0 +1,1110 @@
+Report for Institution Code FMNH, Resource fmnh_mammals
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1638
+Number of records retrieved in searches: 23109
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 78
+	Country: Canada ; Times: 117
+	Country: Unknown ; Times: 15
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 17
+	Country: Peru ; Times: 9
+	Country: Argentina ; Times: 12
+	Country: Ecuador ; Times: 1
+	Country: Australia ; Times: 6
+	Country: El Salvador ; Times: 3
+	Country: Czechia ; Times: 3
+	Country: Guatemala ; Times: 6
+	Country: Germany ; Times: 11
+	Country: Chile ; Times: 63
+	Country: Belgium ; Times: 1
+	Country: China ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Denmark ; Times: 75
+	Country: United States ; Times: 990
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 6
+	Country: Mexico ; Times: 194
+	Country: United Kingdom ; Times: 20
+	Country: Colombia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 10
+	Date: 2018-07-01 ; Times: 26
+	Date: 2018-07-02 ; Times: 131
+	Date: 2018-07-03 ; Times: 75
+	Date: 2018-07-28 ; Times: 8
+	Date: 2018-07-29 ; Times: 16
+	Date: 2018-07-08 ; Times: 133
+	Date: 2018-07-09 ; Times: 30
+	Date: 2018-07-04 ; Times: 32
+	Date: 2018-07-05 ; Times: 45
+	Date: 2018-07-06 ; Times: 23
+	Date: 2018-07-21 ; Times: 60
+	Date: 2018-07-26 ; Times: 42
+	Date: 2018-07-27 ; Times: 57
+	Date: 2018-07-24 ; Times: 101
+	Date: 2018-07-25 ; Times: 53
+	Date: 2018-07-13 ; Times: 40
+	Date: 2018-07-12 ; Times: 118
+	Date: 2018-07-11 ; Times: 35
+	Date: 2018-07-10 ; Times: 112
+	Date: 2018-07-17 ; Times: 61
+	Date: 2018-07-16 ; Times: 45
+	Date: 2018-07-15 ; Times: 9
+	Date: 2018-07-14 ; Times: 10
+	Date: 2018-07-31 ; Times: 30
+	Date: 2018-07-30 ; Times: 31
+	Date: 2018-07-19 ; Times: 47
+	Date: 2018-07-18 ; Times: 27
+	Date: 2018-07-22 ; Times: 38
+	Date: 2018-07-23 ; Times: 89
+	Date: 2018-07-20 ; Times: 104
+
+List of queries that retrieved data from the resource: 
+	Query: "Nycteris javanica" ; Times: 5
+	Query: "specificepithet:bengalensis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "Pudu puda" ; Times: 2
+	Query: "country:Ecuador scientificname:Cormura brevirostris " ; Times: 4
+	Query: "133024" ; Times: 1
+	Query: "fmnh 215612" ; Times: 1
+	Query: "44690" ; Times: 1
+	Query: "FMNH 156648" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979 institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys silvestris " ; Times: 2
+	Query: "specificepithet:megalotis genus:Otocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "catalognumber:16712 institutioncode:FMNH" ; Times: 2
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus terrestris " ; Times: 3
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris minuta " ; Times: 1
+	Query: "Setonix brachyurus FMNH" ; Times: 1
+	Query: "Dipodomys merriami parvus" ; Times: 4
+	Query: "FMNH 196086" ; Times: 2
+	Query: "catalognumber:20322 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:44449" ; Times: 1
+	Query: "catalognumber:44448" ; Times: 1
+	Query: "scotophilus leucogaster" ; Times: 2
+	Query: "country:Ecuador scientificname:Proechimys cuvieri " ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1980 year &lt;= 1989 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1910 year &lt;= 1919 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:16708 institutioncode:FMNH" ; Times: 1
+	Query: "18420" ; Times: 1
+	Query: "2797 fmnh" ; Times: 1
+	Query: "FMNH 146957" ; Times: 2
+	Query: "country:Ecuador scientificname:Rhynchonycteris naso " ; Times: 1
+	Query: "zoo vntype:specimen specificepithet:brachyurus genus:Chrysocyon family:Canidae (skull OR skeleton)" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1930 year &lt;= 1939 institutioncode:FMNH" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Wisconsin&#34; OR &#34;Minnesota&#34; preparations:skin" ; Times: 6
+	Query: "22763" ; Times: 2
+	Query: "catalognumber:170090 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:sechurae genus:Lycalopex (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "82901" ; Times: 1
+	Query: "dermanura phaeotis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1909 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:alpinus genus:Cuon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "catalognumber:48218 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 2
+	Query: "catalognumber:129312 institutioncode:FMNH" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "specificepithet:loringi genus:thallomys country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:84279 institutioncode:fmnh" ; Times: 2
+	Query: "catalognumber:201440 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 2
+	Query: "specificepithet:mesomelas genus:Canis AND (NOT captive OR zoo) year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "158094" ; Times: 1
+	Query: "specificepithet:kappleri genus:dasypus" ; Times: 4
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1970 year &lt;= 1979 institutioncode:FMNH" ; Times: 1
+	Query: "155904" ; Times: 1
+	Query: "Nycteris gambiensis" ; Times: 2
+	Query: "specificepithet:argentata genus:Callithrix preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "Microtus richardsoni specificepithet:richardsoni genus:Microtus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "catalognumber:18317 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "92002" ; Times: 1
+	Query: "Dendrolagus lumholtzi" ; Times: 1
+	Query: "specificepithet:aeta genus:hylomyscus" ; Times: 2
+	Query: "catalognumber:5331 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:71050 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:15219 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:griseus genus:Lycalopex (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "166417" ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis equatoris " ; Times: 1
+	Query: "30999" ; Times: 1
+	Query: "catalognumber:170069 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 34380" ; Times: 3
+	Query: "catalognumber:201452 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince: Wisconsin preparations:skin" ; Times: 2
+	Query: "specificepithet:capensis genus:pedetes country:&#34;kenya&#34;" ; Times: 2
+	Query: "specificepithet:griseus genus:Lycalopex (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "Caenolestes" ; Times: 1
+	Query: "68499" ; Times: 1
+	Query: "specificepithet:neglectus genus:Cercopithecus preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "Phyllostomus latifolius" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus catalognumber:191206 institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus elongatus " ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "specificepithet:sechurae genus:Lycalopex (skull OR skeleton) AND (NOT Palaeontology) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1900 year &lt;= 1909 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:Asia (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1960 year &lt;= 1969 institutioncode:FMNH" ; Times: 2
+	Query: "Bradypus variegatus mappable:1" ; Times: 75
+	Query: "Proechimys simonsi colombia" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasypus novemcinctus " ; Times: 3
+	Query: "country:Ecuador scientificname:Cuniculus paca " ; Times: 2
+	Query: "FMNH 26756" ; Times: 1
+	Query: "genus:pelomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:sechurae genus:Lycalopex (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 1
+	Query: "catalognumber:142457 institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;johns&#34; stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "genus:hystrix country:&#34;kenya&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1980 year &lt;= 1989 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:syndactylus genus:Hylobates preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1900 year &lt;= 1959 institutioncode:FMNH" ; Times: 1
+	Query: "fmnh 216158" ; Times: 1
+	Query: "fmnh 216153" ; Times: 1
+	Query: "heller stateprovince:&#34;Baja California&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "recordedby:Anderson year &gt;= 1946 year &lt;= 1946" ; Times: 1
+	Query: "specificepithet:mona genus:Cercopithecus preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (captive OR zoo) institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:201482 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "Calomyscus baluchi" ; Times: 5
+	Query: "specificepithet:geoffroyi genus:Callithrix preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 55483" ; Times: 2
+	Query: "specificepithet:mesomelas genus:Canis (zoo OR captive)" ; Times: 1
+	Query: "catalognumber:5330 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1940 year &lt;= 1949 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:venaticus genus:Speothos (captive OR zoo)" ; Times: 1
+	Query: "genus:Parascalops stateprovince:&#34;Ohio&#34;" ; Times: 2
+	Query: "Proechimys cuvieri" ; Times: 1
+	Query: "specificepithet:hypoxanthus genus:oenomys country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 2
+	Query: "Toromys rhipidurus" ; Times: 1
+	Query: "29140" ; Times: 1
+	Query: "fmnh 94448" ; Times: 2
+	Query: "recordedby:J.D. Allen" ; Times: 1
+	Query: "catalognumber:13752 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "country:&#34;kenya&#34; (Mara river)" ; Times: 2
+	Query: "53355" ; Times: 1
+	Query: "specificepithet:capensis genus:pedetes country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 2
+	Query: "148193" ; Times: 1
+	Query: "catalognumber:186703 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:186700 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:corsac genus:Vulpes" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949 institutioncode:FMNH" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris argentina" ; Times: 1
+	Query: "vntype:specimen specificepithet:sechurae genus:Lycalopex family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil )" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys paramorum " ; Times: 3
+	Query: "catalognumber:13739 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:56071 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "genus:mus country:&#34;kenya&#34;" ; Times: 1
+	Query: "catalognumber:170031 institutioncode:FMNH" ; Times: 1
+	Query: "Dephomys" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis albescens " ; Times: 2
+	Query: "Ctenomys bicolor" ; Times: 2
+	Query: "catalognumber:201481 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:culpaeus genus:Lycalopex (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "catalognumber:16202 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:18313 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 166
+	Query: "specificepithet:megacephalus genus:microdipodops county:&#34;washoe&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:Asia (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1980 year &lt;= 1989 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "family:Hystricidae hastissue:1" ; Times: 4
+	Query: "catalognumber:13749 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:69997 institutioncode:fmnh" ; Times: 2
+	Query: "73161" ; Times: 1
+	Query: "rufescens ecuador" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys bicolor " ; Times: 2
+	Query: "country:Ecuador scientificname:Bassaricyon alleni " ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1980 year &lt;= 1989 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:alpinus genus:Cuon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys superans " ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura peruana " ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:201487 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1890 year &lt;= 1899 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:culpaeus genus:Lycalopex (skull OR skeleton)" ; Times: 1
+	Query: "country:Ecuador scientificname:Promops davisoni " ; Times: 1
+	Query: "catalognumber:201447 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 3
+	Query: "catalognumber:201428 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) institutioncode:FMNH" ; Times: 1
+	Query: "121463" ; Times: 1
+	Query: "catalognumber:123583 institutioncode:fmnh" ; Times: 2
+	Query: "catalognumber:18311 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Baja California&#34; country:&#34;mexico&#34; recordedby:heller" ; Times: 2
+	Query: "zoo vntype:specimen specificepithet:venaticus genus:Speothos (skull OR skeleton)" ; Times: 1
+	Query: "catalognumber:17817 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "genus:Scotophilus country:&#34;Kenya&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis keaysi " ; Times: 1
+	Query: "catalognumber:20320 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1909" ; Times: 2
+	Query: "FMNH 175283" ; Times: 2
+	Query: "29884" ; Times: 1
+	Query: "catalognumber:201484 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:56073 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Pan preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:dilectus genus:rhabdomys country:&#34;kenya&#34;" ; Times: 3
+	Query: "specificepithet:culpaeus genus:Lycalopex (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "catalognumber:18312 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "Marshall Co Iowa" ; Times: 1
+	Query: "FMNH-100329" ; Times: 1
+	Query: "FMNH-100328" ; Times: 1
+	Query: "FMNH-100327" ; Times: 1
+	Query: "FMNH-100326" ; Times: 1
+	Query: "FMNH-100325" ; Times: 1
+	Query: "FMNH-100324" ; Times: 2
+	Query: "county:&#34;Marshall&#34; stateprovince:&#34;Iowa&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "19982" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (captive OR zoo) institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "specificepithet:microtis genus:Atelocynus (skull OR skeleton) AND (NOT fossil) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1990 year &lt;= 1999 institutioncode:FMNH" ; Times: 1
+	Query: "1476 KU" ; Times: 1
+	Query: "catalognumber:114455 institutioncode:FMNH" ; Times: 2
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 1
+	Query: "specificepithet:hypoxanthus genus:oenomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1990 year &lt;= 1999 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "catalognumber:123771 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 1
+	Query: "catalognumber:17693 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1880 year &lt;= 1900 institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 1
+	Query: "catalognumber:172556 institutioncode:FMNH &#34;sorex cinereus&#34;" ; Times: 1
+	Query: "FMNH 53874" ; Times: 4
+	Query: "tapirus terrestris" ; Times: 2
+	Query: "country:Ecuador scientificname:Melanomys robustulus " ; Times: 1
+	Query: "14764" ; Times: 1
+	Query: "catalognumber:87487 institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Akodon mollis " ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "sotalia fluviatilis" ; Times: 2
+	Query: "country:Ecuador scientificname:Pithecia napensis " ; Times: 1
+	Query: "FMNH 19724" ; Times: 1
+	Query: "genus:Calomys stateprovince:&#34;Ancash&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:jacksoni genus:praomys country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1960 year &lt;= 2018 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:201483 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:rueppelli genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 6
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 2000 year &lt;= 2009 institutioncode:FMNH" ; Times: 1
+	Query: "89544" ; Times: 1
+	Query: "Ctenomys dorsalis" ; Times: 3
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1980 year &lt;= 1989 institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:thous genus:Cerdocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1960 year &lt;= 1969 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis (zoo OR captive) year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "centronycteris centralis" ; Times: 1
+	Query: "specificepithet:microtis genus:Atelocynus (skull OR skeleton) AND (NOT fossil)" ; Times: 1
+	Query: "leopardus guigna" ; Times: 1
+	Query: "34490" ; Times: 1
+	Query: "catalognumber:201449 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Myotis country:&#34;USA&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:megalotis genus:Otocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;St. Johns&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "boydi" ; Times: 2
+	Query: "215593" ; Times: 1
+	Query: "catalognumber:114040 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:6100 institutioncode:FMNH" ; Times: 1
+	Query: "AM 3468" ; Times: 1
+	Query: "57433" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "catalognumber:126237 institutioncode:FMNH" ; Times: 3
+	Query: "locality:Cameta stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:mustela country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:20708 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 94505" ; Times: 2
+	Query: "catalognumber:17975 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "mababiensis" ; Times: 2
+	Query: "specificepithet:brachyurus genus:Chrysocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "specificepithet:simensis genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "catalognumber:191206 institutioncode:FMNH" ; Times: 2
+	Query: "Mazama americana" ; Times: 4
+	Query: "specificepithet:thebaica genus:Nycteris country:&#34;Egypt&#34;" ; Times: 5
+	Query: "121036" ; Times: 1
+	Query: "kirirom" ; Times: 1
+	Query: "country:Ecuador scientificname:Gardnerycteris crenulatum " ; Times: 2
+	Query: "catalognumber:49120 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "136338" ; Times: 1
+	Query: "Trichechus inunguis" ; Times: 13
+	Query: "Delaware natural history museum mammal skin collection" ; Times: 1
+	Query: "specificepithet:loringi genus:thallomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:pallida genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "mystromys albicaudatus" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "catalognumber:56069 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "sorex veraepacis" ; Times: 3
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1960 year &lt;= 1969 institutioncode:FMNH" ; Times: 1
+	Query: "genus:rhabdomys country:&#34;kenya&#34;" ; Times: 3
+	Query: "FMNH 153888" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (captive OR zoo)" ; Times: 1
+	Query: "country:Ecuador scientificname:Lophostoma brasiliense " ; Times: 1
+	Query: "90043" ; Times: 4
+	Query: "catalognumber:201426 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (captive OR zoo)" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus infuscus " ; Times: 1
+	Query: "country:Ecuador scientificname:Lontra longicaudis " ; Times: 5
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "specificepithet:rueppelli genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "catalognumber:7675 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "diani" ; Times: 3
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:hildegardeae genus:zelotomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:sechurae genus:Lycalopex (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "country:Ecuador scientificname:Anotomys leander " ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 2
+	Query: "genus:Dugong preparations:Skull" ; Times: 2
+	Query: "Kaziranga" ; Times: 1
+	Query: "catalognumber:201478 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "genus:Typhlomys" ; Times: 1
+	Query: "genus:praomys country:&#34;kenya&#34;" ; Times: 3
+	Query: "genus:marmota stateprovince:&#34;nevada&#34;" ; Times: 25
+	Query: "Calomyscus bailwardi" ; Times: 3
+	Query: "catalognumber:15221 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:19108 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "country:&#34;UK&#34;" ; Times: 1
+	Query: "20055" ; Times: 1
+	Query: "country:Ecuador scientificname:Tursiops truncatus " ; Times: 2
+	Query: "Mesoplodon bidens" ; Times: 3
+	Query: "specificepithet:gambiensis genus:Nycteris order:Chiroptera" ; Times: 1
+	Query: "83545" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander melanurus " ; Times: 2
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "19663" ; Times: 1
+	Query: "vntype:specimen genus:Myotis country:&#34;USA&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "heller locality:san antonio stateprovince:&#34;Baja California&#34; country:&#34;mexico&#34; recordedby:heller year &gt;= 1902 year &lt;= 1902" ; Times: 1
+	Query: "genus:Calomys stateprovince:&#34;Ancash&#34;" ; Times: 3
+	Query: "country:Ecuador scientificname:Noctilio leporinus " ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1930 year &lt;= 1939 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:triton genus:mus country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1909 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes country:&#34;Canada&#34; (skull OR skeleton) AND (NOT fossil) year &gt;= 1840 year &lt;= 1899" ; Times: 1
+	Query: "country:Ecuador scientificname:Hylaeamys yunganus " ; Times: 1
+	Query: "priodontes" ; Times: 2
+	Query: "catalognumber:18318 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys caudivarius " ; Times: 1
+	Query: "catalognumber:18316 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 1
+	Query: "Aconaemys chile" ; Times: 1
+	Query: "catalognumber:13738 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "131302" ; Times: 1
+	Query: "specificepithet:hildegardeae genus:zelotomys country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 2
+	Query: "139124" ; Times: 2
+	Query: "nelsoni Kern" ; Times: 1
+	Query: "addax" ; Times: 1
+	Query: "country:Ecuador scientificname:Thyroptera tricolor " ; Times: 1
+	Query: "fmnh 210885" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "vntype:specimen specificepithet:zerda genus:Vulpes (skull OR skeleton)" ; Times: 1
+	Query: "catalognumber:201451 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:56067 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:123770 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 4
+	Query: "catalognumber:20057 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:108508 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:13739 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "230183" ; Times: 1
+	Query: "specificepithet:gregorianus genus:thryonomys country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 2
+	Query: "family:Caviidae preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "23651" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (captive OR zoo)" ; Times: 1
+	Query: "121394" ; Times: 1
+	Query: "ateles fusciceps" ; Times: 1
+	Query: "catalognumber:68595 institutioncode:fmnh" ; Times: 2
+	Query: "country:Ecuador scientificname:Eptesicus brasiliensis " ; Times: 2
+	Query: "order:Carnivora country:&#34;Colombia&#34;" ; Times: 1
+	Query: "microtus californicus stateprovince:&#34;Baja California&#34; country:&#34;mexico&#34;" ; Times: 3
+	Query: "fmnh 220888" ; Times: 1
+	Query: "specificepithet:fallax genus:pelomys country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 4
+	Query: "catalognumber:17972 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:gregorianus genus:thryonomys country:&#34;kenya&#34;" ; Times: 2
+	Query: "fmnh 220881" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis caucensis " ; Times: 1
+	Query: "fmnh 220883" ; Times: 1
+	Query: "specificepithet:sechurae genus:Lycalopex (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "42239" ; Times: 1
+	Query: "fmnh 220886" ; Times: 1
+	Query: "fmnh 220887" ; Times: 1
+	Query: "catalognumber:141865 institutioncode:fmnh" ; Times: 2
+	Query: "genus:microtus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:52844" ; Times: 1
+	Query: "catalognumber:201441 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:striatus genus:lemniscomys country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:17815 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "Microtus Californicus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:littoralis genus:Urocyon (skull OR skeleton)" ; Times: 1
+	Query: "stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:201424 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "229410" ; Times: 2
+	Query: "vntype:specimen family:Felidae institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:13735 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "Dugong" ; Times: 2
+	Query: "catalognumber:16205 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "53348" ; Times: 1
+	Query: "catalognumber:42118 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:18319 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:apella genus:Cebus preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "miniopterus inflatus" ; Times: 3
+	Query: "catalognumber:200132 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:201401 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "32863" ; Times: 2
+	Query: "FMNH-100108" ; Times: 3
+	Query: "chiropodomys" ; Times: 1
+	Query: "capricornis" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "specificepithet:nancymaae genus:Aotus institutioncode:FMNH" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "195163" ; Times: 1
+	Query: "catalognumber:163080 institutioncode:FMNH" ; Times: 2
+	Query: "genus:Myrmecophaga" ; Times: 1
+	Query: "catalognumber:201486 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma trinitatum " ; Times: 2
+	Query: "catalognumber:19105 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:13742 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:labiatus genus:Saguinus preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:venaticus genus:Speothos (skull OR skeleton) AND (NOT captive NOT zoo)" ; Times: 1
+	Query: "impala" ; Times: 1
+	Query: "catalognumber:25886 institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Glironia venusta " ; Times: 2
+	Query: "catalognumber:71096 institutioncode:FMNH" ; Times: 2
+	Query: "14651" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1990 year &lt;= 1999 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura aequatoris " ; Times: 2
+	Query: "catalognumber:170032 institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyressa thyone " ; Times: 1
+	Query: "country:Ecuador scientificname:Mazama rufina " ; Times: 5
+	Query: "catalognumber:16203 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:47235 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "Molossops mattogrossensis" ; Times: 1
+	Query: "1196 p" ; Times: 1
+	Query: "catalognumber:16713 institutioncode:FMNH" ; Times: 1
+	Query: "149959" ; Times: 1
+	Query: "Lontra felina" ; Times: 3
+	Query: "specificepithet:sciureus genus:Saimiri preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1970 year &lt;= 1979 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:chama genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "catalognumber:18320 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "FMNH 10547" ; Times: 1
+	Query: "FMNH Fossa fossana" ; Times: 1
+	Query: "catalognumber:201480 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:sylvanus genus:Macaca preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 167685" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 2
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "zoo vntype:specimen specificepithet:megalotis genus:Otocyon (skull OR skeleton)" ; Times: 1
+	Query: "39041" ; Times: 1
+	Query: "39043" ; Times: 1
+	Query: "stateprovince:&#34;Baja California&#34; country:&#34;mexico&#34; recordedby:heller year &gt;= 1902 year &lt;= 1902" ; Times: 2
+	Query: "country:Ecuador scientificname:Aegialomys xanthaeolus " ; Times: 1
+	Query: "catalognumber:201448 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus aequatorialis " ; Times: 1
+	Query: "FMNH 100547" ; Times: 2
+	Query: "65253" ; Times: 1
+	Query: "catalognumber:172556 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:18314 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:culpaeus genus:Lycalopex (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "country:Ecuador scientificname:Heteromys australis " ; Times: 1
+	Query: "specificepithet:culpaeus genus:Lycalopex (skull OR skeleton) AND (NOT captive NOT zoo)" ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus pinchaque " ; Times: 3
+	Query: "catalognumber:129313 institutioncode:FMNH" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "saguinus imperator" ; Times: 1
+	Query: "FMNH 26595" ; Times: 1
+	Query: "22740" ; Times: 1
+	Query: "catalognumber:106127 institutioncode:FMNH" ; Times: 1
+	Query: "13625" ; Times: 1
+	Query: "vntype:specimen specificepithet:bengalensis genus:Vulpes (skull OR skeleton)" ; Times: 1
+	Query: "specificepithet:angoniensis genus:otomys country:&#34;KENYA&#34; institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:13747 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 2
+	Query: "Dasyprocta azarae" ; Times: 2
+	Query: "FMNH-100330" ; Times: 1
+	Query: "FMNH-100331" ; Times: 1
+	Query: "Saltator institutioncode:FMNH" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "chaetophractus" ; Times: 3
+	Query: "vntype:specimen specificepithet:latrans genus:Canis year &gt;= 1950 year &lt;= 1959 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:megalotis genus:Otocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "catalognumber:121016" ; Times: 1
+	Query: "vntype:specimen county:&#34;Marshall&#34; stateprovince:&#34;Iowa&#34; country:&#34;USA&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Abrocoma budini" ; Times: 3
+	Query: "specificepithet:lupus genus:Canis (zoo OR captive) institutioncode:FMNH" ; Times: 1
+	Query: "158960" ; Times: 1
+	Query: "specificepithet:sechurae genus:Lycalopex" ; Times: 1
+	Query: "fmnh 220882" ; Times: 1
+	Query: "FMNH 100331" ; Times: 3
+	Query: "specificepithet:culpaeus genus:Lycalopex (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "specificepithet:torquatus genus:Cercocebus preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyurus genus:Chrysocyon family:Canidae (skull OR skeleton)" ; Times: 2
+	Query: "Field 123227" ; Times: 1
+	Query: "specificepithet:rueppelli genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "FMNH 52629" ; Times: 1
+	Query: "Miniopterus africanus" ; Times: 1
+	Query: "specificepithet:simensis genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:guereza genus:Colobus preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:zerda genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1950 year &lt;= 1959 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:emini genus:cricetomys" ; Times: 2
+	Query: "47680" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 1
+	Query: "catalognumber:13149 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "207771" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1920 year &lt;= 1929 institutioncode:FMNH" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "genus:Ailuropoda preparations:skull" ; Times: 5
+	Query: "catalognumber:46953 institutioncode:FMNH" ; Times: 3
+	Query: "Microtus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 4
+	Query: "genus:Chiropotes preparations:skull institutioncode:FMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:gymnocercus genus:Lycalopex family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil )" ; Times: 1
+	Query: "6070 KU" ; Times: 1
+	Query: "specificepithet:culpaeus genus:Lycalopex (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "104695" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus catalognumber:191207 institutioncode:FMNH" ; Times: 1
+	Query: "Echimys chrysurus" ; Times: 2
+	Query: "Cuniculus paca brazil" ; Times: 1
+	Query: "Canis latrans institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Mesophylla macconnelli " ; Times: 2
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon (skull OR skeleton)" ; Times: 1
+	Query: "20167" ; Times: 1
+	Query: "country:Ecuador scientificname:Macrophyllum macrophyllum " ; Times: 2
+	Query: "neotoma magister" ; Times: 11
+	Query: "specificepithet:sechurae genus:Lycalopex (skull OR skeleton) AND (NOT captive OR zoo)" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis (zoo OR captive) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:megalotis genus:Otocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "fmnh 220885" ; Times: 1
+	Query: "catalognumber:56074 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "Microtus californicus stephensi" ; Times: 1
+	Query: "country:Ecuador scientificname:Phylloderma stenops " ; Times: 1
+	Query: "specificepithet:petaurista genus:Cercopithecus preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "Ailuropoda" ; Times: 10
+	Query: "country:Ecuador scientificname:Artibeus lituratus " ; Times: 2
+	Query: "country:Ecuador scientificname:Philander andersoni " ; Times: 1
+	Query: "Nycteris javanica fmnh" ; Times: 1
+	Query: "specificepithet:gorilla genus:Gorilla preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:nancymaae genus:Aotus preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "peromyscus hylocetes" ; Times: 2
+	Query: "catalognumber:13737 institutioncode:FMNH" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Wisconsin&#34; preparations:skin" ; Times: 4
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1920 year &lt;= 2018 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:brockmani genus:myomyscus country:&#34;kenya&#34;" ; Times: 2
+	Query: "specificepithet:thous genus:Cerdocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "catalognumber:13698 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "FMNH 94499" ; Times: 2
+	Query: "country:Ecuador scientificname:Tremarctos ornatus " ; Times: 6
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "vespertilio sinensis" ; Times: 4
+	Query: "floridanus vntype:specimen specificepithet:americanus genus:Ursus family:Ursidae (skull OR skeleton)" ; Times: 1
+	Query: "catalognumber:201450 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:10994 institutioncode:FMNH" ; Times: 1
+	Query: "99162" ; Times: 2
+	Query: "Proechimys brevicauda colombia" ; Times: 1
+	Query: "FMNH 21329" ; Times: 1
+	Query: "genus:Orcaella" ; Times: 2
+	Query: "specificepithet:brachyurus genus:Chrysocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "specificepithet:fallax genus:pelomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "24679" ; Times: 2
+	Query: "country:Ecuador scientificname:Tadarida brasiliensis " ; Times: 1
+	Query: "catalognumber:123773 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "155094" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 7
+	Query: "specificepithet:cristata genus:hystrix country:&#34;kenya&#34;" ; Times: 2
+	Query: "&#34;Lepus americanus&#34; stateprovince: Michigan preparations:skin" ; Times: 1
+	Query: "specificepithet:zerda genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "Chironectes" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 1
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "16129" ; Times: 1
+	Query: "Lophostoma evotis" ; Times: 1
+	Query: "catalognumber:48219 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla pumilio " ; Times: 2
+	Query: "specificepithet:zerda genus:Vulpes (captive OR zoo)" ; Times: 1
+	Query: "specificepithet:jacksoni genus:praomys country:&#34;kenya&#34;" ; Times: 4
+	Query: "peronii institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:20019 institutioncode:FMNH" ; Times: 1
+	Query: "130313" ; Times: 1
+	Query: "genus:Antrozous county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:18315 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:19106 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "Microtus pinetorum schmidti" ; Times: 1
+	Query: "13038" ; Times: 1
+	Query: "Tamias speciosus distance(location,geopoint(33.713912333593996,-116.65924072265625))&lt;16074" ; Times: 1
+	Query: "specificepithet:lynx genus:Lynx" ; Times: 1
+	Query: "catalognumber:32899 institutioncode:FMNH &#34;sorex cinereus&#34;" ; Times: 1
+	Query: "catalognumber:201485 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "genus:thallomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "fmnh 216121" ; Times: 1
+	Query: "FMNH 95233" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1930 year &lt;= 1939" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "specificepithet:rueppelli genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo)" ; Times: 1
+	Query: "catalognumber:13148 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "19692" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta palliata " ; Times: 8
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 1
+	Query: "FMNH 90067" ; Times: 2
+	Query: "specificepithet:orestes genus:otomys country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "catalognumber:56072 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:talapoin genus:Miopithecus preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 19854" ; Times: 1
+	Query: "nelsoni kern" ; Times: 2
+	Query: "89930" ; Times: 1
+	Query: "ku 2796" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander opossum " ; Times: 1
+	Query: "specificepithet:oedipus genus:Saguinus preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "country:Ecuador scientificname:Arctocephalus galapagoensis " ; Times: 2
+	Query: "Lagidium viscacia chile" ; Times: 2
+	Query: "158958" ; Times: 1
+	Query: "specificepithet:pallida genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "121395" ; Times: 1
+	Query: "Juliomys" ; Times: 3
+	Query: "catalognumber:70040 institutioncode:fmnh" ; Times: 2
+	Query: "FMNH 94529" ; Times: 5
+	Query: "catalognumber:90506 institutioncode:FMNH &#34;sorex cinereus&#34;" ; Times: 1
+	Query: "catalognumber:17973 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:106126 institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1909 institutioncode:FMNH" ; Times: 1
+	Query: "Pattonomys occasius" ; Times: 1
+	Query: "catalognumber:201439 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Cebus yuracus " ; Times: 1
+	Query: "genus:auliscomys stateprovince:&#34;ancash&#34;" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "Dasyprocta azarae brazil" ; Times: 2
+	Query: "74358" ; Times: 1
+	Query: "genus:neotomys stateprovince:&#34;ancash&#34;" ; Times: 1
+	Query: "specificepithet:paedulcus genus:thallomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "catalognumber:24116 institutioncode:fmnh" ; Times: 2
+	Query: "catalognumber:20321 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "specificepithet:blanfordi genus:Cremnomys" ; Times: 4
+	Query: "fmnh 143901" ; Times: 2
+	Query: "specificepithet:thous genus:Cerdocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "specificepithet:merriami parvus county:&#34;riverside&#34;" ; Times: 1
+	Query: "fmnh 221040" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys simonsi " ; Times: 1
+	Query: "aonyx capensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis simus " ; Times: 1
+	Query: "specificepithet:elator genus:Dipodomys" ; Times: 1
+	Query: "126440" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;White Pine&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1960 year &lt;= 1969 institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis year &gt;= 1990 year &lt;= 1999 institutioncode:FMNH" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "catalognumber:13746 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:angoniensis genus:otomys country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:orestes genus:otomys country:&#34;kenya&#34;" ; Times: 2
+	Query: "Proechimys decumanus piura" ; Times: 2
+	Query: "family:felidae order:carnivora stateprovince:&#34;oaxaca&#34;" ; Times: 2
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1970 year &lt;= 1979 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:Africa (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1960 year &lt;= 1969 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 2
+	Query: "catalognumber:24164" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1930 year &lt;= 1939 institutioncode:FMNH" ; Times: 1
+	Query: "class:mammalia institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "FMNH 92706" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 2
+	Query: "FMNH 35353" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira ludovici " ; Times: 1
+	Query: "county:&#34;Marshall&#34; stateprovince:&#34;Iowa&#34; country:&#34;USA&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "FMNH 94448" ; Times: 3
+	Query: "country:Ecuador scientificname:Myrmecophaga tridactyla " ; Times: 2
+	Query: "Panthera pardus delacouri" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 2
+	Query: "catalognumber:170074 institutioncode:FMNH" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Nycteris tragata" ; Times: 3
+	Query: "catalognumber:114450 institutioncode:FMNH" ; Times: 2
+	Query: "vntype:specimen family:Vespertilionidae stateprovince:&#34;Wisconsin&#34; country:&#34;USA&#34; year &gt;= 1700 year &lt;= 2000" ; Times: 1
+	Query: "genus:Metachirus institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;st&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:13737 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969 institutioncode:FMNH" ; Times: 1
+	Query: "zoo vntype:specimen specificepithet:procyonoides genus:Nyctereutes family:Canidae (skull OR skeleton)" ; Times: 1
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 2
+	Query: "pudu puda" ; Times: 1
+	Query: "fasher" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys narboroughi " ; Times: 1
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 4
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 2
+	Query: "FMNH 63124 Chiropodomys" ; Times: 2
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (captive OR zoo)" ; Times: 1
+	Query: "sorex oreopolus" ; Times: 1
+	Query: "specificepithet:imperator genus:Saguinus preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "Pteronotus macleayii" ; Times: 1
+	Query: "specificepithet:megalotis genus:Otocyon (captive OR zoo)" ; Times: 1
+	Query: "country:Ecuador scientificname:Bradypus variegatus " ; Times: 2
+	Query: "catalognumber:17816 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "22213" ; Times: 2
+	Query: "country:Ecuador scientificname:Mesomys hispidus " ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:Meek year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:zerda genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus brachycephalus " ; Times: 2
+	Query: "caenolestes" ; Times: 1
+	Query: "specificepithet:rattus genus:rattus country:&#34;kenya&#34;" ; Times: 2
+	Query: "genus:calomys stateprovince:&#34;ancash&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Aegialomys galapagoensis " ; Times: 2
+	Query: "Dinomys branickii" ; Times: 2
+	Query: "18318" ; Times: 1
+	Query: "specificepithet:griseus genus:Lycalopex (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:angoniensis genus:otomys country:&#34;kenya&#34;" ; Times: 2
+	Query: "catalognumber:108687 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:bengalensis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "Cuniculus paca colombia" ; Times: 2
+	Query: "country:Ecuador scientificname:Euryoryzomys macconnelli " ; Times: 3
+	Query: "(cameta)" ; Times: 2
+	Query: "vntype:specimen specificepithet:sechurae genus:Lycalopex family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) institutioncode:FMNH" ; Times: 1
+	Query: "mazama temama" ; Times: 4
+	Query: "160666" ; Times: 1
+	Query: "37260" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:dilectus genus:rhabdomys country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllotis haggardi " ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 2000 year &lt;= 2009 institutioncode:FMNH" ; Times: 1
+	Query: "Otomops martiensseni" ; Times: 1
+	Query: "genus:Orcaella institutioncode:FMNH" ; Times: 2
+	Query: "&#34;Lepus americanus&#34; stateprovince: Minnesota preparations:skin" ; Times: 3
+	Query: "catalognumber:201434 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 2
+	Query: "specificepithet:megalotis genus:Otocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrum spectrum " ; Times: 2
+	Query: "tolypeutes" ; Times: 1
+	Query: "specificepithet:rattus genus:rattus country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:sechurae genus:Lycalopex (skull OR skeleton) AND (NOT fossil) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "Galea spixii" ; Times: 1
+	Query: "catalognumber:125620 institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:tropicalis genus:otomys country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:13744 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:Europe (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1980 year &lt;= 1989 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:186697 institutioncode:FMNH" ; Times: 4
+	Query: "FMNH 49529" ; Times: 1
+	Query: "specificepithet:brockmani genus:myomyscus country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 4
+	Query: "Proechimys simonsi Colombia" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1910 year &lt;= 1919 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo)" ; Times: 2
+	Query: "specificepithet:Sorellus genus:Calomys stateprovince:&#34;Ancash&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys indefessus " ; Times: 1
+	Query: "FMNH 58377" ; Times: 1
+	Query: "genus:Parascalops stateprovince:&#34;West Virginia&#34;" ; Times: 3
+	Query: "country:Ecuador scientificname:Saccopteryx leptura " ; Times: 1
+	Query: "specificepithet:africanus genus:atherurus country:&#34;kenya&#34;" ; Times: 2
+	Query: "class:mammalia preparations:skull institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:201488 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Noctilio albiventris " ; Times: 2
+	Query: "29686" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "vntype:specimen specificepithet:chama genus:Vulpes (skull OR skeleton)" ; Times: 1
+	Query: "12781" ; Times: 2
+	Query: "specificepithet:cristata genus:hystrix country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:zerda genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "specificepithet:glassi genus:Crocidura" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "specificepithet:gymnocercus genus:Lycalopex (skull OR skeleton) AND (NOT captive OR zoo)" ; Times: 2
+	Query: "fmnh 216120" ; Times: 1
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 1
+	Query: "specificepithet:culpaeus genus:Lycalopex (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "Dendrolagus matschiei" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon (zoo OR captive)" ; Times: 1
+	Query: "specificepithet:alpinus genus:Cuon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "Panthera pardus orientalis" ; Times: 1
+	Query: "specificepithet:jacchus genus:Callithrix preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:alpinus genus:Cuon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "catalognumber:102108 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:68972 institutioncode:fmnh" ; Times: 2
+	Query: "catalognumber:62795 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:swinderianus genus:thryonomys" ; Times: 1
+	Query: "catalognumber:201446 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Microryzomys altissimus " ; Times: 3
+	Query: "specificepithet:thous genus:Cerdocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "catalognumber:13993 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:17814 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus catalognumber:186697 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 2000 year &lt;= 2009 institutioncode:FMNH" ; Times: 1
+	Query: "Washington vntype:specimen specificepithet:elaphus genus:Cervus" ; Times: 1
+	Query: "Proechimys quadruplicatus" ; Times: 5
+	Query: "Proechimys guyannensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira tildae " ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1880 year &lt;= 1889 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:16204 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "elator" ; Times: 5
+	Query: "country:Ecuador scientificname:Nephelomys albigularis " ; Times: 1
+	Query: "catalognumber:125621 institutioncode:FMNH" ; Times: 1
+	Query: "26423" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "country:Ecuador scientificname:Trachops cirrhosus " ; Times: 2
+	Query: "specificepithet:sechurae genus:Lycalopex (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "100529" ; Times: 1
+	Query: "country:Ecuador scientificname:Ateles fusciceps " ; Times: 7
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1890 year &lt;= 1899 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:13743 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:116751 institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:taitae genus:praomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "fmnh 225248" ; Times: 1
+	Query: "Moschus moschiferus" ; Times: 1
+	Query: "vntype:specimen specificepithet:griseus genus:Lycalopex family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil )" ; Times: 1
+	Query: "recordedby:pope year &gt;= 1953 year &lt;= 1953 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "4744 KU" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1920 year &lt;= 1929 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1960 year &lt;= 1969 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:aethiops genus:Chlorocebus preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1970 year &lt;= 1979 institutioncode:FMNH" ; Times: 1
+	Query: "15899" ; Times: 1
+	Query: "specificepithet:megalotis genus:Otocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Fmnh 123195" ; Times: 1
+	Query: "vntype:specimen family:Canidae institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:70048 institutioncode:fmnh" ; Times: 2
+	Query: "catalognumber:69957 institutioncode:fmnh" ; Times: 2
+	Query: "specificepithet:cephus genus:Cercopithecus preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Nephelomys moerex " ; Times: 2
+	Query: "specificepithet:pictus genus:Lycaon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "catalognumber:65773 institutioncode:fmnh" ; Times: 2
+	Query: "Coendou melanurus" ; Times: 2
+	Query: "catalognumber:200152 institutioncode:FMNH" ; Times: 2
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 1
+	Query: "specificepithet:silenus genus:Macaca preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "locality:Cametá country:&#34;Brazil&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys brevicauda " ; Times: 1
+	Query: "FMNH 175264" ; Times: 3
+	Query: "catalognumber:13750 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:13745 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:cooperi genus:synaptomys stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "locality:Cameta country:&#34;Brazil&#34;" ; Times: 1
+	Query: "family:Molossidae country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:Pongo preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "catalognumber:27771" ; Times: 1
+	Query: "specificepithet:chama genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "76389" ; Times: 1
+	Query: "manis culionensis" ; Times: 4
+	Query: "Proechimys brevicauda bolivia" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1950 year &lt;= 1959 institutioncode:FMNH" ; Times: 1
+	Query: "sylvilagus andinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1930 year &lt;= 1939 institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosops caucae " ; Times: 1
+	Query: "(Mara river)" ; Times: 4
+	Query: "catalognumber:55408 institutioncode:fmnh" ; Times: 2
+	Query: "genus:Marmota stateprovince:&#34;Nevada&#34;" ; Times: 3
+	Query: "Fmnh 123163" ; Times: 1
+	Query: "cottoni" ; Times: 1
+	Query: "Fmnh 123161" ; Times: 1
+	Query: "Fmnh 123160" ; Times: 1
+	Query: "genus:atherurus hastissue:1" ; Times: 4
+	Query: "stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; (Microtus)" ; Times: 8
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1900 year &lt;= 1909 institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta punctata " ; Times: 3
+	Query: "FMNH 158128" ; Times: 1
+	Query: "catalognumber:70038 institutioncode:fmnh" ; Times: 2
+	Query: "specificepithet:velox genus:Vulpes (captive OR zoo)" ; Times: 1
+	Query: "201475" ; Times: 1
+	Query: "24926" ; Times: 1
+	Query: "catalognumber:20324 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "Thrichomys laurentius" ; Times: 5
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 3
+	Query: "Globicephala macrorhynchus" ; Times: 2
+	Query: "vntype:specimen specificepithet:thous genus:Cerdocyon family:Canidae (captive OR zoo)" ; Times: 1
+	Query: "specificepithet:striatus genus:lemniscomys country:&#34;kenya&#34; catalognumber:17280 institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus rufus " ; Times: 3
+	Query: "specificepithet:javanica genus:Nycteris order:Chiroptera" ; Times: 1
+	Query: "fmnh chiroptera kenya" ; Times: 1
+	Query: "specificepithet:tropicalis genus:otomys country:&#34;kenya&#34;" ; Times: 2
+	Query: "specificepithet:mesomelas genus:Canis year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis stateprovince:&#34;Illinois&#34; institutioncode:FMNH" ; Times: 2
+	Query: "26817" ; Times: 2
+	Query: "specificepithet:tullbergi genus:praomys country:&#34;kenya&#34;" ; Times: 2
+	Query: "Otomops martiensseni FMNH" ; Times: 1
+	Query: "catalognumber:68600 institutioncode:fmnh" ; Times: 2
+	Query: "catalognumber:201427 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:13748 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "Fmnh 123227" ; Times: 1
+	Query: "catalognumber:20042 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:20323 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:bengalensis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "14616" ; Times: 1
+	Query: "genus:Miniopterus institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:106128 institutioncode:FMNH" ; Times: 2
+	Query: "country:Ecuador scientificname:Dactylomys dactylinus " ; Times: 3
+	Query: "country:Ecuador scientificname:Leopardus colocolo " ; Times: 3
+	Query: "pudu pudu" ; Times: 2
+	Query: "56062" ; Times: 1
+	Query: "genus:anomalurus" ; Times: 5
+	Query: "catalognumber:13751 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:201425 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "Iowa Marshall county" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:48216 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:rueppelli genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1920 year &lt;= 1929 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:48217 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo) institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:sphinx preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:17692 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "fmnh 94499" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1910 year &lt;= 1919 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 145437" ; Times: 3
+	Query: "catalognumber:17974 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "Miniopterus inflatus rufus" ; Times: 1
+	Query: "Macrophyllum macrophyllum" ; Times: 1
+	Query: "catalognumber:201489 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus mimulus " ; Times: 4
+	Query: "catalognumber:124372 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "specificepithet:glaber genus:heterocephalus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Mazama nana" ; Times: 2
+	Query: "FMNH 78545" ; Times: 1
+	Query: "catalognumber:36023 institutioncode:FMNH &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "100446" ; Times: 2
+	Query: "FMNH 128326" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhipidomys leucodactylus " ; Times: 4
+	Query: "Calomyscus hotsoni" ; Times: 1
+	Query: "specificepithet:zerda genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1960 year &lt;= 1969 institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Sigmodon peruanus " ; Times: 4
+	Query: "country:Ecuador scientificname:Eumops auripendulus " ; Times: 1
+	Query: "genus:Cavia institutioncode:FMNH" ; Times: 1
+	Query: "Tylomys" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:rueppelli genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "49649-1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 78 (out of 977 download events in this period)
+Total number of records downloaded: 18483
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 43
+	Country: Chile ; Times: 7
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Colombia ; Times: 7
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-02 ; Times: 4
+	Date: 2018-07-03 ; Times: 1
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-09 ; Times: 3
+	Date: 2018-07-22 ; Times: 2
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-06 ; Times: 5
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-26 ; Times: 3
+	Date: 2018-07-27 ; Times: 5
+	Date: 2018-07-24 ; Times: 6
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-11 ; Times: 3
+	Date: 2018-07-10 ; Times: 3
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-16 ; Times: 4
+	Date: 2018-07-15 ; Times: 2
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-30 ; Times: 5
+	Date: 2018-07-19 ; Times: 9
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-20 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:capensis genus:pedetes country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 1
+	Query: "Chihuahua" ; Times: 1
+	Query: "Dendrolagus matschiei" ; Times: 1
+	Query: "karnataka" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "Brachyphylla cavernarum" ; Times: 1
+	Query: "Molossops temminckii" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "specificepithet:Sorellus genus:Calomys stateprovince:&#34;Ancash&#34;" ; Times: 1
+	Query: "Dipodomys stephensi" ; Times: 1
+	Query: "Molossops mattogrossensis" ; Times: 1
+	Query: "(cameta)" ; Times: 1
+	Query: "Caenolestes" ; Times: 2
+	Query: "Miniopterus africanus" ; Times: 1
+	Query: "family:felidae order:carnivora stateprovince:&#34;oaxaca&#34;" ; Times: 2
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;california&#34; OR stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Phyllostomus latifolius" ; Times: 1
+	Query: "specificepithet:palustris genus:Sylvilagus" ; Times: 1
+	Query: "specificepithet:dilectus genus:rhabdomys country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 1
+	Query: "Lophostoma evotis" ; Times: 1
+	Query: "genus:marmota stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "genus:ammospermophilus stateprovince:&#34;baja california&#34;" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "locality:Cameta country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Stenoderma rufum" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "locality:Cameta stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "specificepithet:jacksoni genus:praomys country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;johns&#34; stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "Microtus Californicus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "family:Caviidae preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Wisconsin&#34; OR &#34;Minnesota&#34; preparations:skin" ; Times: 2
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "Galea spixii" ; Times: 1
+	Query: "specificepithet:tropicalis genus:otomys country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 1
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "Canis latrans institutioncode:FMNH" ; Times: 1
+	Query: "manis culionensis" ; Times: 1
+	Query: "genus:Metachirus institutioncode:FMNH" ; Times: 1
+	Query: "recordedby:J.D. Allen" ; Times: 1
+	Query: "Santa Catarina" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "Anoura" ; Times: 1
+	Query: "Miniopterus inflatus rufus" ; Times: 1
+	Query: "Macrophyllum macrophyllum" ; Times: 1
+	Query: "specificepithet:angoniensis genus:otomys country:&#34;KENYA&#34; institutioncode:FMNH" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "Chironectes" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "stateprovince:&#34;Baja California&#34; country:&#34;mexico&#34; recordedby:heller" ; Times: 1
+	Query: "Pygoderma bilabiatum" ; Times: 1
+	Query: "Ailuropoda" ; Times: 2
+	Query: "specificepithet:rattus genus:rattus country:&#34;kenya&#34; institutioncode:FMNH" ; Times: 1
+	Query: "Dendrolagus lumholtzi" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "genus:Calomys stateprovince:&#34;Ancash&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Vampyressa pusilla" ; Times: 1
+	Query: "genus:tamiasciurus hastissue:1" ; Times: 1
+	Query: "specificepithet:AURICULUS genus:MYOTIS" ; Times: 1
+	Query: "Saltator institutioncode:FMNH" ; Times: 2
+	Query: "macropus eugenii" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+
+
+End of report.
