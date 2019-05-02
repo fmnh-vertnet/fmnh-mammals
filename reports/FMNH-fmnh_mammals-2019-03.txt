@@ -1,0 +1,891 @@
+Report for Institution Code FMNH, Resource fmnh_mammals
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1495
+Number of records retrieved in searches: 23830
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 82
+	Country: Canada ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 5
+	Country: Peru ; Times: 32
+	Country: Argentina ; Times: 5
+	Country: Ecuador ; Times: 8
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Belgium ; Times: 11
+	Country: Thailand ; Times: 1
+	Country: Netherlands ; Times: 24
+	Country: Denmark ; Times: 40
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 918
+	Country: Sweden ; Times: 1
+	Country: Myanmar [Burma] ; Times: 6
+	Country: Russia ; Times: 3
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 55
+	Country: India ; Times: 11
+	Country: United Kingdom ; Times: 201
+	Country: Austria ; Times: 9
+	Country: Colombia ; Times: 61
+	Country: Paraguay ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 53
+	Date: 2019-03-27 ; Times: 39
+	Date: 2019-03-26 ; Times: 23
+	Date: 2019-03-25 ; Times: 89
+	Date: 2019-03-24 ; Times: 20
+	Date: 2019-03-23 ; Times: 20
+	Date: 2019-03-08 ; Times: 27
+	Date: 2019-03-21 ; Times: 103
+	Date: 2019-03-20 ; Times: 68
+	Date: 2019-03-05 ; Times: 44
+	Date: 2019-03-09 ; Times: 64
+	Date: 2019-03-07 ; Times: 24
+	Date: 2019-03-06 ; Times: 62
+	Date: 2019-03-01 ; Times: 39
+	Date: 2019-03-29 ; Times: 28
+	Date: 2019-03-22 ; Times: 37
+	Date: 2019-03-04 ; Times: 22
+	Date: 2019-03-15 ; Times: 60
+	Date: 2019-03-30 ; Times: 38
+	Date: 2019-03-31 ; Times: 31
+	Date: 2019-03-03 ; Times: 15
+	Date: 2019-03-18 ; Times: 47
+	Date: 2019-03-19 ; Times: 37
+	Date: 2019-03-16 ; Times: 43
+	Date: 2019-03-17 ; Times: 38
+	Date: 2019-03-14 ; Times: 56
+	Date: 2019-03-02 ; Times: 13
+	Date: 2019-03-12 ; Times: 77
+	Date: 2019-03-13 ; Times: 186
+	Date: 2019-03-10 ; Times: 21
+	Date: 2019-03-11 ; Times: 71
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:15611 institutioncode:FMNH" ; Times: 1
+	Query: "217679" ; Times: 2
+	Query: "specificepithet:sorellus genus:Calomys" ; Times: 12
+	Query: "country:Ecuador scientificname:Thomasomys silvestris " ; Times: 6
+	Query: "FMNH 36744" ; Times: 2
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 3
+	Query: "catalognumber:65844" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris minuta " ; Times: 2
+	Query: "PHYLLOTIS AMICUS" ; Times: 2
+	Query: "FMNH 99428" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "FMNH 69034" ; Times: 1
+	Query: "FMNH-47463" ; Times: 1
+	Query: "Taphozous longimanus" ; Times: 1
+	Query: "promops" ; Times: 1
+	Query: "90727" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhynchonycteris naso " ; Times: 2
+	Query: "country:Ecuador scientificname:Promops davisoni " ; Times: 5
+	Query: "FMNH 12577" ; Times: 1
+	Query: "KU 7888" ; Times: 1
+	Query: "Callithrix flaviceps" ; Times: 2
+	Query: "FMNH 15465" ; Times: 2
+	Query: "aurispinosus" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga commissarisi " ; Times: 3
+	Query: "genus:Panthera institutioncode:FMNH" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "catalognumber:55726" ; Times: 1
+	Query: "CUNICULUS PACA" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "Chihuahua specificepithet:cinereoargenteus genus:Urocyon family:Canidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "FMNH 71052" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon family:Canidae (zoo OR captive) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gracilinanus country:&#34;peru&#34;" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM)" ; Times: 1
+	Query: "delomys" ; Times: 4
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "country:&#34;Mexico, USA&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Cryptotis equatoris " ; Times: 2
+	Query: "AKODON DOLORES" ; Times: 1
+	Query: "genus:Nyctinomops locality:Palm Springs" ; Times: 1
+	Query: "country:Ecuador scientificname:Eptesicus brasiliensis " ; Times: 3
+	Query: "FMNH 104095" ; Times: 1
+	Query: "FMNH 104096" ; Times: 1
+	Query: "fmnh 119895" ; Times: 1
+	Query: "Phyllostomus latifolius" ; Times: 5
+	Query: "genus:Mustela specificepithet:nigripes" ; Times: 1
+	Query: "FMNH 125026" ; Times: 1
+	Query: "cabassous" ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllostomus elongatus " ; Times: 1
+	Query: "catalognumber:20029 institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasypus novemcinctus " ; Times: 5
+	Query: "country:Ecuador scientificname:Cuniculus paca " ; Times: 2
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "Andamanensis" ; Times: 1
+	Query: "specificepithet:sorellus genus:Calomys country:&#34;Perú&#34; continent:America" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "cabassous tatouay" ; Times: 2
+	Query: "Hapalomys" ; Times: 1
+	Query: "208078" ; Times: 1
+	Query: "Guadalupe AND Anthony" ; Times: 1
+	Query: "208083" ; Times: 1
+	Query: "94387" ; Times: 1
+	Query: "Callicebus nigrifrons mappable:1" ; Times: 5
+	Query: "FMNH 25956" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK)" ; Times: 3
+	Query: "FMNH 163187" ; Times: 2
+	Query: "54495" ; Times: 1
+	Query: "54494" ; Times: 1
+	Query: "FMNH 38192" ; Times: 1
+	Query: "70247" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "FMNH 38195" ; Times: 1
+	Query: "Galerella sanguinea" ; Times: 4
+	Query: "country:Ecuador scientificname:Thomasomys paramorum " ; Times: 5
+	Query: "specificepithet:septemcinctus genus:Dasypus" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis albescens " ; Times: 1
+	Query: "specificepithet:yagouaroundi country:&#34;USA&#34;" ; Times: 1
+	Query: "FMNH 37995" ; Times: 1
+	Query: "FMNH 37993" ; Times: 3
+	Query: "FMNH 37991" ; Times: 3
+	Query: "oryx leucoryx" ; Times: 3
+	Query: "FMNH 58410" ; Times: 12
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 3
+	Query: "Canis simensis" ; Times: 2
+	Query: "country:Ecuador scientificname:Bassaricyon alleni " ; Times: 3
+	Query: "Tremarctos ornatus" ; Times: 6
+	Query: "locality:lamarao" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura peruana " ; Times: 7
+	Query: "Tamandua mexicana" ; Times: 9
+	Query: "Promops centralis davisoni" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 3
+	Query: "FMNH 93560" ; Times: 1
+	Query: "Mesophylla macconnelli" ; Times: 1
+	Query: "genus:akodon country:&#34;peru&#34; institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 69565" ; Times: 1
+	Query: "colomys" ; Times: 7
+	Query: "country:Ecuador scientificname:Phyllostomus discolor " ; Times: 4
+	Query: "Pteropus vetulus" ; Times: 19
+	Query: "class:Mammalia catalognumber:15926" ; Times: 1
+	Query: "catalognumber:1543 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 15070" ; Times: 3
+	Query: "country:Ecuador scientificname:Myotis keaysi " ; Times: 2
+	Query: "Bradypus variegatus mappable:1" ; Times: 25
+	Query: "Callosciurus erythraeus" ; Times: 2
+	Query: "country:Ecuador scientificname:Caenolestes convelatus " ; Times: 3
+	Query: "specificepithet:nigripes genus:mustela" ; Times: 1
+	Query: "aotus lemurinus griseimembra" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes family:Canidae (zoo OR captive) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:27781" ; Times: 3
+	Query: "60925" ; Times: 1
+	Query: "Pteropus admiralitatum" ; Times: 7
+	Query: "Kenya vntype:specimen specificepithet:pictus family:Canidae" ; Times: 1
+	Query: "namibia vntype:specimen specificepithet:megalotis family:Canidae" ; Times: 1
+	Query: "catalognumber:52618 institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 199949" ; Times: 1
+	Query: "Peromyscus polionotus niveiventris genus:Peromyscus polionotus niveiventris county:&#34;Palm Beach&#34;" ; Times: 1
+	Query: "91415" ; Times: 1
+	Query: "FMNH 199947" ; Times: 2
+	Query: "country:Ecuador scientificname:Caenolestes condorensis " ; Times: 2
+	Query: "Aotus griseimembra" ; Times: 2
+	Query: "tanzania vntype:specimen specificepithet:megalotis family:Canidae" ; Times: 1
+	Query: "stateprovince:&#34;west virginia&#34; recordedby:t. surber" ; Times: 1
+	Query: "specificepithet:ochrogaster genus:Microtus stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "125668" ; Times: 2
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 5
+	Query: "FMNH 141952" ; Times: 1
+	Query: "catalognumber:93838" ; Times: 1
+	Query: "specificepithet:rabori institutioncode:FMNH" ; Times: 2
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 7
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 1
+	Query: "FMNH 100093" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira oporaphilum " ; Times: 2
+	Query: "country:Ecuador scientificname:Melanomys robustulus " ; Times: 1
+	Query: "specificepithet:aureus genus:Canis family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "juliomys" ; Times: 1
+	Query: "catalognumber:194780" ; Times: 1
+	Query: "country:Ecuador scientificname:Akodon aerosus " ; Times: 3
+	Query: "specificepithet:falcatus genus:Phyllops" ; Times: 1
+	Query: "country:Ecuador scientificname:Pithecia napensis " ; Times: 3
+	Query: "country:Ecuador scientificname:Didelphis pernigra " ; Times: 5
+	Query: "specificepithet:hybridus genus:Dasypus" ; Times: 1
+	Query: "137524" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 27
+	Query: "Eumops auripendulus" ; Times: 1
+	Query: "FMNH 4279 beldingi" ; Times: 1
+	Query: "class:Mammalia county:&#34;King&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "specificepithet:aurita genus:Didelphis" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;wisconsin&#34; year &gt;= 1975" ; Times: 2
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 9
+	Query: "persica India" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua mexicana " ; Times: 3
+	Query: "country:Ecuador scientificname:Neacomys amoenus " ; Times: 4
+	Query: "country:Ecuador scientificname:Nectomys apicalis " ; Times: 4
+	Query: "Colomys" ; Times: 5
+	Query: "Sturnira mistratensis" ; Times: 2
+	Query: "Marmosa robinsoni" ; Times: 3
+	Query: "Salpingotus" ; Times: 1
+	Query: "FMNH 199998" ; Times: 1
+	Query: "potamogale" ; Times: 2
+	Query: "country:Ecuador scientificname:Gardnerycteris crenulatum " ; Times: 1
+	Query: "Rousettus obliviosus" ; Times: 10
+	Query: "specificepithet:lupus genus:Canis family:Canidae county:&#34;Koochiching&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Lophostoma brasiliense " ; Times: 1
+	Query: "Rhipidomys mastacalis mappable:1" ; Times: 1
+	Query: "209110" ; Times: 1
+	Query: "Elephantulus edwardii" ; Times: 1
+	Query: "FMNH 4892" ; Times: 6
+	Query: "Peromyscus santarosae" ; Times: 1
+	Query: "country:Ecuador scientificname:Lontra longicaudis " ; Times: 4
+	Query: "country:Ecuador scientificname:Ateles fusciceps " ; Times: 6
+	Query: "103378" ; Times: 1
+	Query: "specificepithet:aceramarcae genus:Gracilinanus" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Erophylla" ; Times: 1
+	Query: "FMNH 13966" ; Times: 1
+	Query: "country:Ecuador scientificname:Conepatus semistriatus " ; Times: 2
+	Query: "country:Ecuador scientificname:Anotomys leander " ; Times: 1
+	Query: "handleyomys chapmani" ; Times: 1
+	Query: "FMNH 21113" ; Times: 1
+	Query: "FMNH 73642" ; Times: 2
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1930 year &lt;= 1950" ; Times: 2
+	Query: "Sturnira mordax" ; Times: 2
+	Query: "country:Ecuador scientificname:Tursiops truncatus " ; Times: 4
+	Query: "tanzania longido" ; Times: 1
+	Query: "FMNH 131134" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander melanurus " ; Times: 2
+	Query: "genus:spilogale stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "216696" ; Times: 1
+	Query: "216697" ; Times: 1
+	Query: "FMNH 51157" ; Times: 1
+	Query: "21113" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes family:Canidae (zoo OR captive)" ; Times: 2
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes family:Canidae country:&#34;Canada&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Noctilio leporinus " ; Times: 3
+	Query: "genus:urocyon stateprovince:&#34;minnesota&#34; year &gt;= 1975" ; Times: 1
+	Query: "country:Ecuador scientificname:Hylaeamys yunganus " ; Times: 2
+	Query: "country:Ecuador scientificname:Thomasomys caudivarius " ; Times: 6
+	Query: "Diceros bicornis" ; Times: 1
+	Query: "Baja specificepithet:latrans genus:Canis family:Canidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys semispinosus " ; Times: 2
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 3
+	Query: "country:Ecuador scientificname:Caenolestes sangay " ; Times: 2
+	Query: "196694" ; Times: 1
+	Query: "country:Ecuador scientificname:Thyroptera tricolor " ; Times: 2
+	Query: "country:Ecuador scientificname:Nasua nasua " ; Times: 3
+	Query: "country:Ecuador scientificname:Promops centralis " ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys swarthi " ; Times: 3
+	Query: "FMNH 39167" ; Times: 1
+	Query: "FMNH 39161" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchophylla robusta " ; Times: 2
+	Query: "specificepithet:nana genus:Brachyphylla" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus ismaeli " ; Times: 4
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 4
+	Query: "Pteropus rayneri" ; Times: 7
+	Query: "Eira barbara" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sorellus genus:Calomys country:&#34;Peru&#34; continent:America" ; Times: 4
+	Query: "FMNH 141848" ; Times: 1
+	Query: "FMNH 141966" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis county:&#34;riverside&#34;" ; Times: 1
+	Query: "FMNH 141844" ; Times: 1
+	Query: "catalognumber:89211 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 141846" ; Times: 1
+	Query: "specificepithet:gymnocercus country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "boker" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis caucensis " ; Times: 3
+	Query: "Artibeus fimbriatus" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 3
+	Query: "Tenrec" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 10
+	Query: "Pteropus dasymallus" ; Times: 21
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "FMNH 50890" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 2
+	Query: "collectioncode:Mammals (Philippine) institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 38185" ; Times: 1
+	Query: "böker" ; Times: 1
+	Query: "Peromyscus polionotus niveiventris genus:Peromyscus polionotus niveiventris locality:jupiter" ; Times: 1
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "country:Ecuador scientificname:Mesomys hispidus " ; Times: 2
+	Query: "genus:Colomys country:&#34;Angola&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 2
+	Query: "micropotamogale" ; Times: 1
+	Query: "90085" ; Times: 1
+	Query: "specificepithet:vellerosus genus:Chaetophractus" ; Times: 1
+	Query: "country:Ecuador scientificname:Akodon mollis " ; Times: 8
+	Query: "Lycalopex gymnocercus mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1950 year &lt;= 1970" ; Times: 2
+	Query: "Pteropus anetianus" ; Times: 6
+	Query: "country:Ecuador scientificname:Chiroderma trinitatum " ; Times: 2
+	Query: "country:Ecuador scientificname:Tremarctos ornatus " ; Times: 10
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "48319" ; Times: 1
+	Query: "92210" ; Times: 2
+	Query: "country:Ecuador scientificname:Glironia venusta " ; Times: 5
+	Query: "Guadalupe AND Anthony AND Mammals" ; Times: 1
+	Query: "FMNH 38189" ; Times: 3
+	Query: "stateprovince:&#34;kentucky&#34; specificepithet:maniculatus genus:Peromyscus year &gt;= 1900 year &lt;= 2019" ; Times: 2
+	Query: "country:Ecuador scientificname:Anoura aequatoris " ; Times: 26
+	Query: "56147" ; Times: 1
+	Query: "specificepithet:castanops genus:cratogeomys stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Cebus yuracus " ; Times: 2
+	Query: "catalognumber:78125" ; Times: 1
+	Query: "121677" ; Times: 1
+	Query: "Tamiops maritimus" ; Times: 1
+	Query: "121679" ; Times: 1
+	Query: "Epomophorus minimus" ; Times: 2
+	Query: "specificepithet:lepidus genus:Calomys country:&#34;Bolivia&#34; continent:America" ; Times: 1
+	Query: "Pteropus temminckii" ; Times: 17
+	Query: "FMNH 15063" ; Times: 2
+	Query: "39771" ; Times: 1
+	Query: "institutioncode:FMNH distance(location,geopoint(42.54182109971192,-80.302734375))&lt;100000" ; Times: 1
+	Query: "microsciurus" ; Times: 1
+	Query: "FMNH 167175" ; Times: 1
+	Query: "FMNH 167172" ; Times: 1
+	Query: "FMNH 58843" ; Times: 1
+	Query: "Calomys sorellus" ; Times: 1
+	Query: "country:Ecuador scientificname:Aotus vociferans " ; Times: 5
+	Query: "country:Ecuador scientificname:Aegialomys xanthaeolus " ; Times: 1
+	Query: "FMNH 141882" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus aequatorialis " ; Times: 6
+	Query: "FMNH 100013" ; Times: 3
+	Query: "Oligoryzomys andinus" ; Times: 1
+	Query: "FMNH 65759" ; Times: 1
+	Query: "country:Ecuador scientificname:Heteromys australis " ; Times: 3
+	Query: "country:Ecuador scientificname:Chilomys instans " ; Times: 2
+	Query: "country:Ecuador scientificname:Tapirus pinchaque " ; Times: 5
+	Query: "Notopteris macdonaldi" ; Times: 3
+	Query: "FMNH 231203" ; Times: 1
+	Query: "country:Ecuador scientificname:Nephelomys moerex " ; Times: 2
+	Query: "Hypsignathus" ; Times: 4
+	Query: "Dermanura cinerea" ; Times: 2
+	Query: "FMNH 199975" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 4
+	Query: "Platyrrhinus aurarius" ; Times: 4
+	Query: "specificepithet:vulpes genus:Vulpes family:Canidae stateprovince:&#34;California&#34; institutioncode:FMNH" ; Times: 1
+	Query: "Sciurus granatensis cundinamarca" ; Times: 57
+	Query: "country:Ecuador scientificname:Marmosa rubra " ; Times: 4
+	Query: "stateprovince:&#34;California&#34; (Antilocapra americana)" ; Times: 1
+	Query: "FMNH 15470" ; Times: 1
+	Query: "FMNH 15471" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira magna " ; Times: 1
+	Query: "genus:Taxidea country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:sorellus genus:Calomys country:&#34;Perú&#34; continent:america" ; Times: 2
+	Query: "Cuniculus taczanowskii CUNDINAMARCA" ; Times: 1
+	Query: "Tupaia glis" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 2
+	Query: "catalognumber:90893" ; Times: 1
+	Query: "catalognumber:90894" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus county:&#34;Otero&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys derbianus " ; Times: 6
+	Query: "218165" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys superans " ; Times: 2
+	Query: "FMNH 12976" ; Times: 2
+	Query: "FMNH 141894" ; Times: 1
+	Query: "Rattus tiomanicus" ; Times: 3
+	Query: "mustela strigidorsa" ; Times: 5
+	Query: "country:Ecuador scientificname:Macrophyllum macrophyllum " ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 4
+	Query: "FMNH 233439" ; Times: 1
+	Query: "neovison vison" ; Times: 11
+	Query: "country:Ecuador scientificname:Lycalopex sechurae " ; Times: 3
+	Query: "Pteropus ornatus" ; Times: 3
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 3
+	Query: "country:Ecuador scientificname:Phylloderma stenops " ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus angustirostris " ; Times: 3
+	Query: "country:Ecuador scientificname:Artibeus lituratus " ; Times: 1
+	Query: "country:Ecuador scientificname:Choeroniscus minor " ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "FMNH 111207" ; Times: 1
+	Query: "pygeretmus" ; Times: 1
+	Query: "70265" ; Times: 2
+	Query: "country:Ecuador scientificname:Tadarida brasiliensis " ; Times: 2
+	Query: "Lophostoma" ; Times: 2
+	Query: "Cerdocyon thous mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira bogotensis " ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 3
+	Query: "Leopardus pardalis" ; Times: 4
+	Query: "Botswana vntype:specimen specificepithet:pictus family:Canidae" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 2
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "Cuniculus paca mappable:1" ; Times: 1
+	Query: "specificepithet:rufa institutioncode:FMNH" ; Times: 4
+	Query: "specificepithet:sorellus genus:calomys stateprovince:&#34;Ancash&#34; country:&#34;Peru&#34; continent:America" ; Times: 1
+	Query: "Pteropus molossinus" ; Times: 2
+	Query: "FMNH 25499" ; Times: 2
+	Query: "Heteromys australis" ; Times: 1
+	Query: "country:Ecuador scientificname:Lasiurus blossevillii " ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllotis andium " ; Times: 2
+	Query: "apodemus draco" ; Times: 6
+	Query: "family:Canidae institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Lophostoma carrikeri " ; Times: 3
+	Query: "scarturus" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla pumilio " ; Times: 3
+	Query: "genus:Rattus institutioncode:FMNH" ; Times: 1
+	Query: "country:&#34;Mexico; USA&#34;" ; Times: 1
+	Query: "boliviae" ; Times: 1
+	Query: "Nephelomys devius" ; Times: 1
+	Query: "25127" ; Times: 1
+	Query: "Pteropus speciosus" ; Times: 3
+	Query: "catalognumber:120291" ; Times: 1
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos family:Canidae" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira ludovici " ; Times: 6
+	Query: "raineyi" ; Times: 1
+	Query: "Notopteris neocaledonica" ; Times: 4
+	Query: "Funambulus palmarum" ; Times: 1
+	Query: "genus:Maxomys institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "lonchophylla mordax" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys baeops " ; Times: 4
+	Query: "Pteropus ualanus" ; Times: 6
+	Query: "196693" ; Times: 1
+	Query: "15088" ; Times: 1
+	Query: "Oryx leucoryx" ; Times: 5
+	Query: "specificepithet:parvus genus:Perognathus county:&#34;Inyo&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 4
+	Query: "catalognumber:137993" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta palliata " ; Times: 15
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 2
+	Query: "specificepithet:griseus genus:LYCALOPEX class:MAMMALIA" ; Times: 1
+	Query: "specificepithet:sechurae country:&#34;ecuador&#34;" ; Times: 2
+	Query: "62264" ; Times: 1
+	Query: "aotus brumbacki" ; Times: 2
+	Query: "38014" ; Times: 1
+	Query: "Akodon toba" ; Times: 10
+	Query: "specificepithet:lepidus genus:Calomys stateprovince:&#34;Junin&#34; country:&#34;Peru&#34; continent:America" ; Times: 1
+	Query: "catalognumber:226790 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 141941" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander opossum " ; Times: 3
+	Query: "specificepithet:merriami genus:tamias institutioncode:FMNH" ; Times: 2
+	Query: "class:Mammalia funambulus" ; Times: 7
+	Query: "catalognumber:75387" ; Times: 1
+	Query: "country:Ecuador scientificname:Arctocephalus galapagoensis " ; Times: 1
+	Query: "37157" ; Times: 1
+	Query: "Mazama temama" ; Times: 1
+	Query: "FMNH 103886" ; Times: 3
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:kappleri genus:Dasypus" ; Times: 4
+	Query: "recordnumber:1543 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 141974" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "country:Ecuador scientificname:Sigmodon peruanus " ; Times: 4
+	Query: "country:Ecuador scientificname:Mazama rufina " ; Times: 1
+	Query: "108252" ; Times: 3
+	Query: "FMNH 141874" ; Times: 1
+	Query: "Pteropus melanopogon" ; Times: 1
+	Query: "country:Ecuador scientificname:Hydrochoerus hydrochaeris " ; Times: 4
+	Query: "dipodomys ingens" ; Times: 1
+	Query: "FMNH 141872" ; Times: 1
+	Query: "country:Ecuador scientificname:Oreoryzomys balneator " ; Times: 2
+	Query: "FMNH 141862" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "Pteropus melanotus" ; Times: 6
+	Query: "specificepithet:aureus genus:Canis family:Canidae (zoo OR captive) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "84104" ; Times: 1
+	Query: "FMNH 141861" ; Times: 1
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 3
+	Query: "country:Ecuador scientificname:Diphylla ecaudata " ; Times: 3
+	Query: "FMNH 9256" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus andinus " ; Times: 1
+	Query: "Coendou mappable:1" ; Times: 1
+	Query: "gonja" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys simonsi " ; Times: 1
+	Query: "73139" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys fernandinae " ; Times: 2
+	Query: "country:Ecuador scientificname:Myotis simus " ; Times: 1
+	Query: "54471" ; Times: 1
+	Query: "canis mesomelas" ; Times: 1
+	Query: "Funambulus sublineatus" ; Times: 4
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "specificepithet:maximus genus:Priodontes" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 2
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 3
+	Query: "country:Ecuador scientificname:Myrmecophaga tridactyla " ; Times: 1
+	Query: "12219" ; Times: 1
+	Query: "12218" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 4
+	Query: "FMNH 121251" ; Times: 2
+	Query: "tenrec" ; Times: 2
+	Query: "country:Ecuador scientificname:Handleyomys alfaroi " ; Times: 1
+	Query: "Eonycteris robusta" ; Times: 3
+	Query: "AKODON DAYI" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander andersoni " ; Times: 3
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom)" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys narboroughi " ; Times: 1
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 1
+	Query: "147828" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 2
+	Query: "Cabassous unicinctus mappable:1" ; Times: 1
+	Query: "specificepithet:tajacu genus:Pecari stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:Ecuador scientificname:Bradypus variegatus " ; Times: 5
+	Query: "202429" ; Times: 1
+	Query: "181986" ; Times: 1
+	Query: "Tamandua tetradactyla" ; Times: 4
+	Query: "FMNH 145962" ; Times: 1
+	Query: "country:Ecuador scientificname:Lophostoma silvicolum " ; Times: 3
+	Query: "apodemus chevrieri" ; Times: 1
+	Query: "country:Ecuador scientificname:Aegialomys galapagoensis " ; Times: 2
+	Query: "handleyomys saturatior" ; Times: 1
+	Query: "specificepithet:lepidus genus:Calomys country:&#34;Peru&#34; continent:America" ; Times: 1
+	Query: "specificepithet:andinus genus:Oligoryzomys country:&#34;Peru&#34; continent:America" ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus terrestris " ; Times: 2
+	Query: "specificepithet:sechurae class:MAMMALIA" ; Times: 1
+	Query: "Melonycteris fardoulisi" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 26
+	Query: "country:Ecuador scientificname:Phyllotis haggardi " ; Times: 5
+	Query: "country:Ecuador scientificname:Nephelomys auriventer " ; Times: 3
+	Query: "country:Ecuador scientificname:Vampyrum spectrum " ; Times: 5
+	Query: "Bunomys chrysocomus" ; Times: 1
+	Query: "Sciurus stramineus" ; Times: 13
+	Query: "Lophiomys imhausi" ; Times: 1
+	Query: "Lontra longicaudis mappable:1" ; Times: 1
+	Query: "FMNH 38191" ; Times: 1
+	Query: "catalognumber:147862 institutioncode:FMNH" ; Times: 1
+	Query: "Saguinus fuscicollis" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis oxyotus " ; Times: 3
+	Query: "FMNH 15466" ; Times: 2
+	Query: "FMNH 42559" ; Times: 1
+	Query: "FMNH 15460" ; Times: 1
+	Query: "FMNH 231305" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys indefessus " ; Times: 2
+	Query: "country:Ecuador scientificname:Hoplomys gymnurus " ; Times: 1
+	Query: "FMNH 15469" ; Times: 1
+	Query: "FMNH 15468" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx leptura " ; Times: 3
+	Query: "country:Ecuador scientificname:Noctilio albiventris " ; Times: 1
+	Query: "FMNH 64296" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchophylla hesperia " ; Times: 3
+	Query: "33977" ; Times: 1
+	Query: "avahi" ; Times: 2
+	Query: "genus:pongo" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 4
+	Query: "panthera tigris mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 2
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "Lenothrix canus" ; Times: 2
+	Query: "country:Ecuador scientificname:Dasyprocta punctata " ; Times: 3
+	Query: "Pteropus woodfordi" ; Times: 8
+	Query: "Rhinophylla alethina" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis family:Canidae stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "FMNH 141903" ; Times: 1
+	Query: "FMNH 141902" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 2
+	Query: "125594" ; Times: 1
+	Query: "funambulus" ; Times: 3
+	Query: "FMNH 32447" ; Times: 1
+	Query: "Dermanura tolteca" ; Times: 1
+	Query: "FMNH 70046" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys altissimus " ; Times: 4
+	Query: "Epomophorus grandis" ; Times: 3
+	Query: "specificepithet:villosus genus:Chaetophractus" ; Times: 1
+	Query: "country:Ecuador scientificname:Chrotopterus auritus " ; Times: 2
+	Query: "FMNH 111215" ; Times: 2
+	Query: "FMNH 47494" ; Times: 2
+	Query: "oreotragus" ; Times: 1
+	Query: "FMNH 71780" ; Times: 1
+	Query: "Orientallactaga" ; Times: 1
+	Query: "FMNH 111219" ; Times: 3
+	Query: "country:Ecuador scientificname:Sturnira tildae " ; Times: 1
+	Query: "217429" ; Times: 1
+	Query: "country:Ecuador scientificname:Nephelomys albigularis " ; Times: 2
+	Query: "colomys goslingi" ; Times: 2
+	Query: "23317" ; Times: 1
+	Query: "Lonchophylla mordax" ; Times: 3
+	Query: "51438" ; Times: 1
+	Query: "Botswana vntype:specimen specificepithet:megalotis family:Canidae" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "FMNH 141881" ; Times: 1
+	Query: "catalognumber:25992" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 5
+	Query: "FMNH 93559" ; Times: 1
+	Query: "FMNH 93558" ; Times: 2
+	Query: "FMNH 47491" ; Times: 1
+	Query: "FMNH 72277" ; Times: 1
+	Query: "FMNH 93554" ; Times: 1
+	Query: "FMNH 93557" ; Times: 2
+	Query: "FMNH 93556" ; Times: 2
+	Query: "vntype:specimen family:Canidae institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:50694" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM NOT AMNH)" ; Times: 1
+	Query: "longido tanzania" ; Times: 1
+	Query: "berylmys bowersi" ; Times: 2
+	Query: "fmnh 141874" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 1
+	Query: "bassariscus sumichrasti" ; Times: 2
+	Query: "fmnh 141872" ; Times: 2
+	Query: "FMNH 4000" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys brevicauda " ; Times: 2
+	Query: "Vormela peregusna" ; Times: 1
+	Query: "yagouaroundi" ; Times: 1
+	Query: "class:Mammalia institutioncode:FMNH" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 3
+	Query: "Makiling" ; Times: 1
+	Query: "specificepithet:bowersi genus:berylmys" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris hirsuta " ; Times: 1
+	Query: "country:Ecuador scientificname:Coendou prehensilis " ; Times: 1
+	Query: "Eothenomys melanogaster" ; Times: 2
+	Query: "country:Ecuador scientificname:Marmosops caucae " ; Times: 2
+	Query: "Zapus hudsonius preblei" ; Times: 3
+	Query: "Gorilla beringei" ; Times: 2
+	Query: "Eidolon dupreanum" ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus fraterculus " ; Times: 5
+	Query: "FMNH 212178" ; Times: 2
+	Query: "brachyteles" ; Times: 1
+	Query: "Pteropus seychellensis" ; Times: 7
+	Query: "FMNH 212177" ; Times: 2
+	Query: "brucepattersonius" ; Times: 1
+	Query: "Cynictis penicillata" ; Times: 4
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1900 year &lt;= 2019" ; Times: 2
+	Query: "Thylamys elegans" ; Times: 1
+	Query: "Panthera tigris mappable:1" ; Times: 12
+	Query: "Chibchanomys" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosa regina " ; Times: 2
+	Query: "15384" ; Times: 1
+	Query: "Turbo castanea mappable:1" ; Times: 4
+	Query: "country:Ecuador scientificname:Molossus rufus " ; Times: 6
+	Query: "&#34;peromyscus californicus&#34; california santa clara" ; Times: 1
+	Query: "FMNH 141943" ; Times: 1
+	Query: "monodelphis americana" ; Times: 1
+	Query: "25563" ; Times: 1
+	Query: "specificepithet:chama genus:Vulpes family:Canidae country:&#34;Namibia&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Transandinomys bolivaris " ; Times: 1
+	Query: "FMNH 15459" ; Times: 2
+	Query: "FMNH 70000" ; Times: 1
+	Query: "class:Mammalia county:&#34;Knox&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "FMNH 100275" ; Times: 2
+	Query: "vntype:specimen genus:ORYX" ; Times: 1
+	Query: "140994" ; Times: 1
+	Query: "FMNH 98140" ; Times: 1
+	Query: "mustela strigidorsa burma" ; Times: 1
+	Query: "genus:antilocapra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Dactylomys dactylinus " ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus colocolo " ; Times: 1
+	Query: "specificepithet:obscurus genus:tamias institutioncode:FMNH" ; Times: 5
+	Query: "FMNH 163171" ; Times: 1
+	Query: "chiroptera malawi" ; Times: 2
+	Query: "FMNH 232244" ; Times: 1
+	Query: "collectioncode:Mammals (Philippines) institutioncode:FMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus nigellus " ; Times: 4
+	Query: "113188" ; Times: 1
+	Query: "diaemus youngi" ; Times: 2
+	Query: "FMNH 200015" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "ardilla" ; Times: 3
+	Query: "county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34; Dipodomys elator" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus mimulus " ; Times: 4
+	Query: "specificepithet:pichiy genus:Zaedyus" ; Times: 2
+	Query: "Thalpomys" ; Times: 4
+	Query: "gonja tanzania" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;illinois&#34; year &gt;= 1975" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhipidomys leucodactylus " ; Times: 2
+	Query: "Pteropus voeltzkowi" ; Times: 6
+	Query: "FMNH 98137" ; Times: 1
+	Query: "228547" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 167 (out of 1281 download events in this period)
+Total number of records downloaded: 37246
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 67
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 16
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 54
+	Country: Austria ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-27 ; Times: 3
+	Date: 2019-03-26 ; Times: 3
+	Date: 2019-03-25 ; Times: 4
+	Date: 2019-03-08 ; Times: 12
+	Date: 2019-03-21 ; Times: 7
+	Date: 2019-03-20 ; Times: 10
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-07 ; Times: 11
+	Date: 2019-03-06 ; Times: 5
+	Date: 2019-03-01 ; Times: 3
+	Date: 2019-03-29 ; Times: 3
+	Date: 2019-03-22 ; Times: 10
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-03 ; Times: 5
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-19 ; Times: 5
+	Date: 2019-03-16 ; Times: 7
+	Date: 2019-03-17 ; Times: 15
+	Date: 2019-03-14 ; Times: 17
+	Date: 2019-03-15 ; Times: 10
+	Date: 2019-03-12 ; Times: 4
+	Date: 2019-03-13 ; Times: 25
+	Date: 2019-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lepidus genus:Calomys country:&#34;Peru&#34; continent:America" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "Melonycteris fardoulisi" ; Times: 1
+	Query: "class:Mammalia county:&#34;King&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Erophylla bombifrons" ; Times: 1
+	Query: "Tupaia glis" ; Times: 1
+	Query: "Taphozous longimanus" ; Times: 1
+	Query: "genus:Meles" ; Times: 1
+	Query: "promops" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "Sciurus stramineus" ; Times: 2
+	Query: "Colomys" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Callithrix flaviceps" ; Times: 1
+	Query: "Salpingotus" ; Times: 1
+	Query: "Saguinus fuscicollis" ; Times: 1
+	Query: "Rattus tiomanicus" ; Times: 1
+	Query: "thylogale" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "Pteropus ornatus" ; Times: 1
+	Query: "Rousettus obliviosus" ; Times: 2
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:erminea arctica genus:mustela" ; Times: 1
+	Query: "Elephantulus edwardii" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+	Query: "lasiorhinus" ; Times: 1
+	Query: "pygeretmus" ; Times: 1
+	Query: "jaculus" ; Times: 1
+	Query: "Aotus griseimembra" ; Times: 1
+	Query: "phyllotis andium" ; Times: 1
+	Query: "Balantiopteryx io" ; Times: 1
+	Query: "vntype:specimen specificepithet:taylori genus:Baiomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lenothrix canus" ; Times: 1
+	Query: "Pteropus woodfordi" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Phyllostomus latifolius" ; Times: 1
+	Query: "Rousettus celebensis" ; Times: 1
+	Query: "Sturnira mordax" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Pteropus anetianus" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Pteropus neohibernicus" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "Pteropus molossinus" ; Times: 1
+	Query: "Makiling" ; Times: 1
+	Query: "specificepithet:americana origenes genus:martes" ; Times: 1
+	Query: "genus:neovison" ; Times: 1
+	Query: "bettongia" ; Times: 1
+	Query: "apodemus draco" ; Times: 1
+	Query: "family:Canidae institutioncode:FMNH" ; Times: 1
+	Query: "Orientallactaga" ; Times: 1
+	Query: "vombatus" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scarturus" ; Times: 1
+	Query: "Graomys griseoflavus" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;minnesota&#34; year &gt;= 1975" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "cabassous tatouay" ; Times: 1
+	Query: "Lonchophylla mordax" ; Times: 1
+	Query: "Nephelomys devius" ; Times: 1
+	Query: "Pteropus speciosus" ; Times: 1
+	Query: "Pteronotus mesoamericanus" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "Eonycteris robusta" ; Times: 1
+	Query: "Funambulus palmarum" ; Times: 1
+	Query: "Pteropus rayneri" ; Times: 3
+	Query: "Pteropus ualanus" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "specificepithet:sorellus genus:Calomys country:&#34;Peru&#34; continent:America" ; Times: 1
+	Query: "vntype:specimen family:Canidae institutioncode:FMNH" ; Times: 1
+	Query: "monodelphis americana" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "class:Mammalia county:&#34;Brown&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) institutioncode:FMNH" ; Times: 1
+	Query: "&#34;Stylodipus&#34;" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Artibeus fimbriatus" ; Times: 1
+	Query: "allactaga" ; Times: 1
+	Query: "class:Mammalia funambulus" ; Times: 2
+	Query: "Cynopterus titthaecheilus" ; Times: 1
+	Query: "Epomophorus minimus" ; Times: 1
+	Query: "bassariscus sumichrasti" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 2
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "collectioncode:Mammals (Philippine) institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:kappleri genus:Dasypus" ; Times: 1
+	Query: "county:&#34;emery&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Mesophylla macconnelli" ; Times: 1
+	Query: "Eothenomys melanogaster" ; Times: 1
+	Query: "Lophiomys imhausi" ; Times: 1
+	Query: "colomys" ; Times: 2
+	Query: "PHYLLOTIS AMICUS" ; Times: 2
+	Query: "Pteropus melanopogon" ; Times: 1
+	Query: "Pteropus vetulus" ; Times: 1
+	Query: "Zapus hudsonius preblei" ; Times: 1
+	Query: "Ansorge" ; Times: 1
+	Query: "Eidolon dupreanum" ; Times: 1
+	Query: "genus:microtus county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Pteropus melanotus" ; Times: 1
+	Query: "Pteropus seychellensis" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1950 year &lt;= 1970" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "Cynictis penicillata" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "avahi" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 1
+	Query: "specificepithet:Alces alces stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Pteropus dasymallus" ; Times: 1
+	Query: "stateprovince:&#34;kentucky&#34; specificepithet:maniculatus genus:Peromyscus year &gt;= 1900 year &lt;= 2019" ; Times: 1
+	Query: "Pteropus pelewensis" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "Tamiops maritimus" ; Times: 1
+	Query: "Pteropus admiralitatum" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "genus:Ictonyx" ; Times: 1
+	Query: "class:Mammalia county:&#34;Knox&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:lepidus genus:Calomys country:&#34;Bolivia&#34; continent:America" ; Times: 1
+	Query: "class:Mammalia county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "dipus" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;wisconsin&#34; year &gt;= 1975" ; Times: 1
+	Query: "chiroptera malawi" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "genus:Mellivora" ; Times: 1
+	Query: "Brachyphylla nana" ; Times: 1
+	Query: "Notopteris macdonaldi" ; Times: 1
+	Query: "ardilla" ; Times: 1
+	Query: "dendrolagus" ; Times: 1
+	Query: "Melonycteris melanops" ; Times: 1
+	Query: "specificepithet:peregusna" ; Times: 2
+	Query: "Hypsignathus" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Dermanura cinerea" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;illinois&#34; year &gt;= 1975" ; Times: 1
+	Query: "Pteropus voeltzkowi" ; Times: 1
+	Query: "Artibeus hirsutus" ; Times: 1
+	Query: "Platyrrhinus aurarius" ; Times: 2
+
+
+End of report.
